@@ -20,15 +20,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/abandoned-east-end-warehouse.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/abandoned-east-end-warehouse.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/apple-touch-icon-120x120-precomposed.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -94,15 +85,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
-		},
-	"\/archive.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/archive.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
 		},
 	"\/assets\/bower_components\/html5-boilerplate\/404.html": {
 		"fileType": 8192,
@@ -3172,36 +3154,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/fonts\/droid-sans\/font.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/fonts\/droid-sans\/font.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/git\/1.0\/readme.md": {
-		"criticStyle": 0,
-		"enableFootnotes": 0,
-		"enableLabels": 1,
-		"enableSmartQuotes": 1,
-		"escapeLineBreaks": 0,
-		"fileType": 4096,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/git\/1.0\/readme.md",
-		"maskEmailAddresses": 1,
-		"outputAbbreviatedPath": "\/git\/1.0\/readme.html",
-		"outputFormat": 0,
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"parseMetadata": 1,
-		"processHTML": 0,
-		"randomFootnoteNumbers": 0,
-		"useCompatibilityMode": 0
-		},
 	"\/googlecc7a9b7996f6ec6a.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -4012,7 +3964,7 @@
 	},
 "projectAttributes": {
 	"bowerAbbreviatedPath": "assets",
-	"displayValue": "H|U Prod",
+	"displayValue": "Houston | Uncovered",
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "\/touch-icon-192x192.png"
 	},
