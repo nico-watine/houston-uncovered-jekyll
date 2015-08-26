@@ -1,19 +1,24 @@
+<?php 
+	include($_SERVER['DOCUMENT_ROOT'].'/php/autoVer.php');
+?>
 <!DOCTYPE html>
 <html class="no-js" lang="en">
 <head>
 	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.5" />
-	<link type="text/plain" rel="author" href="/humans.txt" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	
 	<title>Your Daily Dose Of The City - H | U</title>
 	<meta name="description" content="Your daily dose of the city, serving up photos of all that is Houston">
-
-	<link rel="stylesheet" href="/css/style.css" />
+	<link type="text/plain" rel="author" href="/humans.txt">
+	
+	<link rel="stylesheet" href="<?php autoVer('/css/style.css'); ?>"/>
 
 	<!--[if lt IE 9]>
 		<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
 	<![endif]-->
-</head>
 
+</head>
 <body>
 
 
@@ -100,7 +105,8 @@
 </div>
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<script src="/js/scripts.min.js"></script>
+<script src="<?php autoVer('/js/scripts-min.js'); ?>"></script>
+
 
 </body>
 </html>
