@@ -8,7 +8,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	
-	<title>Your Daily Dose Of The City - H | U</title>
+	<title>Your Daily Dose Of The City - Houston Uncovered</title>
 	<meta name="description" content="Your daily dose of the city, serving up photos of all that is Houston">
 	<link type="text/plain" rel="author" href="/humans.txt">
 	
@@ -50,7 +50,7 @@
 		<div class="row">
 			<h1>your daily dose of the city</h1>
 			<div class="c2a">
-				<a href="/the-city/east-end/abandoned-east-end-warehouse.html" class="btn" id="daily-post">today's post</a>
+				<a href="/the-city/east-end/abandoned-east-end-warehouse" class="btn" id="daily-post">today's post</a>
 			</div>
 		</div>
 	</div>

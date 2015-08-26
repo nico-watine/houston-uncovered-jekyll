@@ -1149,29 +1149,29 @@
 		"shouldRunBless": 0,
 		"useLibsass": 1
 		},
-	"\/the-city\/east-end\/abandoned-east-end-warehouse.html": {
+	"\/the-city\/east-end\/abandoned-east-end-warehouse.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/the-city\/east-end\/abandoned-east-end-warehouse.html",
+		"inputAbbreviatedPath": "\/the-city\/east-end\/abandoned-east-end-warehouse.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/the-city\/east-end\/index.html": {
+	"\/the-city\/east-end\/index.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/the-city\/east-end\/index.html",
+		"inputAbbreviatedPath": "\/the-city\/east-end\/index.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/the-city\/index.html": {
+	"\/the-city\/index.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/the-city\/index.html",
+		"inputAbbreviatedPath": "\/the-city\/index.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
