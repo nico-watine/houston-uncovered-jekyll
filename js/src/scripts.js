@@ -1,8 +1,12 @@
+// PREPEND IMPORTS ::
+  // JS/SRC/NAV/CLASSIE.JS
+  // JS/SRC/MEDIA/MAGNIFIC-POPUP.JS
+
 // HEADER SHRINK
 function init() {
     window.addEventListener('scroll', function(e){
         var distanceY = window.pageYOffset || document.documentElement.scrollTop,
-            shrinkOn = 200,
+	        shrinkOn = 200,
             header = document.querySelector("header.shrinking");
         if (distanceY > shrinkOn) {
             classie.add(header,"smaller");
