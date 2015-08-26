@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Droid Sans';
+  src: url('DroidSans.eot'); /* IE9 Compat Modes */
+  src: url('DroidSans.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('DroidSans.woff') format('woff'), /* Modern Browsers */
+       url('DroidSans.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('DroidSans.svg#3aa3828ad12880b9e7588ae9c516120a') format('svg'); /* Legacy iOS */
+       
+  font-style:   normal;
+  font-weight:  400;
+}
+

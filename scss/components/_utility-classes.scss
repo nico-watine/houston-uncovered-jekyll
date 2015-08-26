@@ -1,0 +1,77 @@
+@import "../settings/_settings.scss";
+
+html,
+body {
+	margin:0;
+	padding:0;
+	height:100%;
+}
+
+.row {
+	@include row;
+}
+
+.outer-container {
+	@include outer-container;
+}
+
+.pad-h {
+	padding-left: em(16);
+	padding-right: em(16);
+
+	@include media($small) {
+		padding-left: em(10);
+		padding-right: em(10);
+	}
+}
+
+.pad-v {
+	padding-top: em(16);
+	padding-bottom: em(16);
+}
+
+.padding-horizontal {
+	padding: 0 1em;
+}
+
+.padding-vertical {
+	padding: 1em 0;
+}
+
+.img-container {
+	text-align: center;
+	img {
+		box-shadow: 0px 0px em(4) 0px #000;
+		border: em(3) solid #fff;
+	}
+}
+
+.one-half {
+	@include span-columns(8 of 16);
+
+	@include media($small-plus) {
+		margin-bottom: em(20);
+		@include span-columns(6 of 8);
+		@include shift(1);
+	}
+}
+
+.height-wrapper {
+	min-height:100%;
+	position:relative;
+}
+
+.dark-bg {
+	background: #333;
+	color: #f1f1f1;
+
+	a {
+		color: #f1f1f1;
+	}
+}
+
+.full-width-section {
+	width: 100%;
+	padding: 1.5em 0;
+}
+

@@ -1,0 +1,52 @@
+@import "../../settings/_settings.scss";
+@import "_hero.scss";
+
+
+main#index {
+	margin-top: 0;
+}			
+
+
+.triple-feature {
+	.image-link {
+		@include span-columns(3 of 9);
+		margin-bottom: 3em;
+
+		@include media($medium) {
+			@include span-columns(5 of 10);
+		}
+
+		@include media($small-plus) {
+			@include span-columns(10 of 10);
+		}
+	}
+
+	.image-link#blue-trees {
+		@include media($medium) {
+			@include span-columns(7 of 10);
+			@include shift(1.5);
+		}
+
+		@include media($small-plus) {
+			@include span-columns(10 of 10);
+			@include shift(0);
+		}
+	}
+}
+
+.double-feature {
+	background: #333;
+	box-shadow: 0px 0px em(4) 0px #000;
+	padding: em(40) 0;
+
+	.img-container {
+		@include span-columns(5 of 10);
+		margin-bottom: 2em;
+
+		@include media($medium) {
+			@include span-columns(10 of 10);
+		}
+	}
+}
+
+

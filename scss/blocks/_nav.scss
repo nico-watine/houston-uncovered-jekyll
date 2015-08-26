@@ -1,0 +1,60 @@
+@import "../settings/_settings.scss";
+
+nav {
+	@include span-columns(8 of 16);
+	@include shift(2);
+
+	ul {
+		list-style: none;
+		display: inline-block;
+		float: right;
+
+		li {
+			float: left;
+
+			a {
+				color: #fff;
+				padding: .5em 1em;
+				text-decoration: none;
+				font-size: $h4-size;
+				text-shadow: rem(2) rem(2) rem(1) #2D2D2D;
+
+				&:hover {
+					text-decoration: underline;
+				}
+			}
+
+			a.active {
+				font-weight: bold;
+				text-decoration: none;
+			}
+		}
+
+		#last a {
+			border-left: $two solid #eee;
+			color: #fff;
+			font-size: $h4-size;
+			padding: 0 1em;
+		}
+	}
+	
+	@include media($medium) {
+		@include span-columns(5 of 10);
+		@include shift(0);
+	}
+
+	@include media($small-plus) {
+		ul {
+			padding-left: 0;
+		}
+	}
+
+	@include media($small) {
+		@include span-columns(8 of 8);
+		text-align: center;
+
+		ul {
+			float: none;
+		}
+	}
+}

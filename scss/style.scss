@@ -1,0 +1,30 @@
+// NORMALIZE.CSS
+@import "settings/_normalize.scss";
+
+// BOURBON-NEAT FILES
+@import "bourbon";
+@import "grid-settings";
+@import "neat";
+
+// SITE COMPONENTS
+@import "components/_typography.scss";
+@import "components/_resets.scss";
+@import "components/_buttons.scss";
+@import "components/_utility-classes.scss";
+
+// PAGE BLOCKS
+@import "blocks/_body.scss";
+@import "blocks/_header.scss";
+@import "blocks/_nav.scss"; // NAVIGATION STYLES
+@import "blocks/_footer.scss";
+
+// INDIVIDUAL PAGE STYLES
+@import "components/_magnific-popup.scss";
+@import "pages/index/_index.scss";
+@import "pages/posts/_default.scss";
+@import "pages/_category-index.scss";
+@import "pages/_the-city.scss";
+
+// LASTLY IMPORT DEVELOPMENT STYLES, TO BE REMOVED UPON PRODUCTION
+// @import "settings/_development-styles.scss";
+
