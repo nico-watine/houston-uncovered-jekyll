@@ -21,7 +21,7 @@ window.onload = init();
 
 
 
-
+// MAGNIFIC POPUP SCRIPT
 $(document).ready(function() {
 $('.image-link').magnificPopup({ 
   type: 'image',
