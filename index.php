@@ -13,6 +13,7 @@
 	<link type="text/plain" rel="author" href="/humans.txt">
 	
 	<link rel="stylesheet" href="<?php autoVer('/css/style.css'); ?>"/>
+	<link rel="stylesheet" href="/assets/bower_components/magnific-popup/dist/magnific-popup.css">
 
 	<!--[if lt IE 9]>
 		<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
@@ -43,10 +44,12 @@
 	</div>
 </header>
 
-<div class="hero"></div>
+<div class="hero" id="index"></div>
 
+<!-- <img class="image-link" src="/img/sets/blue-trees/blue_trees-1.jpg" alt="Blue Trees on Waugh Dr"> -->
+<a href="/img/sets/blue-trees/blue_trees-1.jpg" class="image-link"><img src="/img/sets/blue-trees/blue_trees-1.jpg" alt=""></a>
 
-
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script src="<?php autoVer('/js/scripts-min.js'); ?>"></script>
 
 
