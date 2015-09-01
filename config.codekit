@@ -1976,24 +1976,46 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/sets\/blue-trees\/blue_trees-1.jpg": {
+	"\/img\/sets\/blue-trees\/600x330\/blue-trees.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 48946,
-		"inputAbbreviatedPath": "\/img\/sets\/blue-trees\/blue_trees-1.jpg",
-		"outputAbbreviatedPath": "\/img\/sets\/blue-trees\/blue_trees-1.jpg",
+		"initialSize": 41274,
+		"inputAbbreviatedPath": "\/img\/sets\/blue-trees\/600x330\/blue-trees.jpg",
+		"outputAbbreviatedPath": "\/img\/sets\/blue-trees\/600x330\/blue-trees.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/sets\/blue-trees\/blue_trees-1@2x.jpg": {
+	"\/img\/sets\/blue-trees\/600x330\/blue-trees@2x.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 141709,
-		"inputAbbreviatedPath": "\/img\/sets\/blue-trees\/blue_trees-1@2x.jpg",
-		"outputAbbreviatedPath": "\/img\/sets\/blue-trees\/blue_trees-1@2x.jpg",
+		"initialSize": 162979,
+		"inputAbbreviatedPath": "\/img\/sets\/blue-trees\/600x330\/blue-trees@2x.jpg",
+		"outputAbbreviatedPath": "\/img\/sets\/blue-trees\/600x330\/blue-trees@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/sets\/reclaimed-gas-station\/600x330\/reclaimed-gas-station.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 34078,
+		"inputAbbreviatedPath": "\/img\/sets\/reclaimed-gas-station\/600x330\/reclaimed-gas-station.jpg",
+		"outputAbbreviatedPath": "\/img\/sets\/reclaimed-gas-station\/600x330\/reclaimed-gas-station.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/sets\/reclaimed-gas-station\/600x330\/reclaimed-gas-station@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 101077,
+		"inputAbbreviatedPath": "\/img\/sets\/reclaimed-gas-station\/600x330\/reclaimed-gas-station@2x.jpg",
+		"outputAbbreviatedPath": "\/img\/sets\/reclaimed-gas-station\/600x330\/reclaimed-gas-station@2x.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2006,6 +2028,17 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
+		},
+	"\/js\/picturefill-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/picturefill-min.js",
+		"outputAbbreviatedPath": "\/picturefill-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
 		},
 	"\/js\/scripts-min.js": {
 		"fileType": 64,
@@ -2020,10 +2053,21 @@
 		},
 	"\/js\/src\/media\/picturefill.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/js\/src\/media\/picturefill.js",
 		"outputAbbreviatedPath": "\/js\/src\/picturefill-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/src\/picturefill.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/src\/picturefill.js",
+		"outputAbbreviatedPath": "\/js\/picturefill-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -2433,6 +2477,14 @@
 	],
 "lastSavedByUser": "Nico Watine",
 "manualImportLinks": {
+	"\/js\/src\/picturefill.js": [
+		{
+			"followForSyntaxChecking": 1,
+			"linkedFileAbbreviatedPath": "\/js\/src\/media\/picturefill.js",
+			"position": 0,
+			"type": 1
+			}
+		],
 	"\/js\/src\/scripts.js": [
 		{
 			"followForSyntaxChecking": 1,

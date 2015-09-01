@@ -15,7 +15,7 @@
 	<link rel="stylesheet" href="<?php autoVer('/css/style.css'); ?>"/>
 
 
-	<script src="/js/src/media/picturefill.js" async></script>
+	<script src="<?php autoVer('/js/picturefill-min.js'); ?>" async></script>
 
 	<!--[if lt IE 9]>
 		<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
@@ -23,8 +23,6 @@
 
 </head>
 <body id="index" style="height: 2000px;">
-
-
 
 
 <header class="shrinking">
@@ -57,7 +55,15 @@
 						<h3>Blue Trees</h3>
 					</a>
 				</div>
-				<img srcset="/img/sets/blue-trees/blue_trees-1.jpg 1x, /img/sets/blue-trees/blue_trees-1@2x.jpg 2x" alt="Blue Trees on Waugh Dr">	
+				<img srcset="/img/sets/blue-trees/600x330/blue-trees.jpg 1x, /img/sets/blue-trees/600x330/blue-trees@2x.jpg 2x" alt="Blue Trees on Waugh Dr">	
+			</figure>
+			<figure class="gallery-link">
+				<div class="label">
+					<a href="#">
+						<h3>Reclaimed Gas Station</h3>
+					</a>
+				</div>
+				<img srcset="/img/sets/reclaimed-gas-station/600x330/reclaimed-gas-station.jpg 1x, /img/sets/reclaimed-gas-station/600x330/reclaimed-gas-station@2x.jpg 2x" alt="Blue Trees on Waugh Dr">	
 			</figure>	
 		</div>
 	</div>
