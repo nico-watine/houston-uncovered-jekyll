@@ -52,6 +52,11 @@
 	<div class="outer-container">
 		<div class="row">
 			<figure class="gallery-link">
+				<div class="label">
+					<a href="#">
+						<h3>Blue Trees</h3>
+					</a>
+				</div>
 				<img srcset="/img/sets/blue-trees/blue_trees-1.jpg 1x, /img/sets/blue-trees/blue_trees-1@2x.jpg 2x" alt="Blue Trees on Waugh Dr">	
 			</figure>	
 		</div>

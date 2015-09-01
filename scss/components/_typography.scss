@@ -29,10 +29,7 @@ p {
 a,
 a:visited {
 	color: $link-color;
-
-	&:hover {
-		text-decoration: none;
-	}
+	text-decoration: none;
 }
 
 
@@ -103,4 +100,10 @@ h6 {
 		font-size: $h6-size;
 	}
 }
+
+.title {
+	font-family: $title-font-family;
+	font-weight: $title-font-weight;
+}
+
 

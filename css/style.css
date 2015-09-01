@@ -360,6 +360,14 @@ html {
 *, *::after, *::before {
   box-sizing: inherit; }
 
+@font-face {
+  font-family: 'Track';
+  src: url("/fonts/track/Track.eot");
+  /* IE9 Compat Modes */
+  src: url("/fonts/track/Track.eot?#iefix") format("embedded-opentype"), url("/fonts/track/Track.woff") format("woff"), url("/fonts/track/Track.ttf") format("truetype"), url("/fonts/track/Track.svg#92ea731d3af6677905303c88689f5d55") format("svg");
+  /* Legacy iOS */
+  font-style: normal;
+  font-weight: 400; }
 html {
   font-size: 1em; }
 
@@ -374,10 +382,8 @@ p {
 
 a,
 a:visited {
-  color: #222; }
-  a:hover,
-  a:visited:hover {
-    text-decoration: none; }
+  color: #222;
+  text-decoration: none; }
 
 h1,
 h2,
@@ -430,6 +436,10 @@ h6 {
 
   h6 {
     font-size: 0.75em; } }
+.title {
+  font-family: "Track", sans-serif;
+  font-weight: 400; }
+
 html,
 body {
   margin: 0;
@@ -606,9 +616,22 @@ figure.gallery-link {
   float: left;
   display: block;
   margin-right: 1.75788%;
-  width: 49.12106%; }
+  width: 49.12106%;
+  position: relative; }
   figure.gallery-link:last-child {
     margin-right: 0; }
+  figure.gallery-link .label {
+    position: absolute;
+    bottom: 0;
+    background: #494949;
+    background: rgba(73, 73, 73, 0.8);
+    width: 100%;
+    padding-top: 0.625rem;
+    text-align: center; }
+    figure.gallery-link .label h3 {
+      color: #fff;
+      margin: 0;
+      font-family: "Track", sans-serif; }
   figure.gallery-link img {
     box-shadow: 0 0.125rem 0.125rem 0 rgba(0, 0, 0, 0.2), 0 0.375rem 0.625rem 0 rgba(0, 0, 0, 0.3); }
 
