@@ -46,7 +46,7 @@
 
 <div class="hero" id="index"></div>
 
-<!-- <img class="image-link" src="/img/sets/blue-trees/blue_trees-1.jpg" alt="Blue Trees on Waugh Dr"> -->
+
 <a href="/img/sets/blue-trees/blue_trees-1.jpg" class="image-link"><img src="/img/sets/blue-trees/blue_trees-1.jpg" alt=""></a>
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
