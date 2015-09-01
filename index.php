@@ -13,14 +13,16 @@
 	<link type="text/plain" rel="author" href="/humans.txt">
 	
 	<link rel="stylesheet" href="<?php autoVer('/css/style.css'); ?>"/>
-	<link rel="stylesheet" href="/assets/bower_components/magnific-popup/dist/magnific-popup.css">
+
+
+	<script src="/js/src/media/picturefill.js" async></script>
 
 	<!--[if lt IE 9]>
 		<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
 	<![endif]-->
 
 </head>
-<body style="height: 2000px;">
+<body id="index" style="height: 2000px;">
 
 
 
@@ -44,12 +46,21 @@
 	</div>
 </header>
 
-<div class="hero" id="index"></div>
+<section class="hero"></section>
+
+<main>
+	<div class="outer-container">
+		<div class="row">
+			<figure class="gallery-link">
+				<img srcset="/img/sets/blue-trees/blue_trees-1.jpg 1x, /img/sets/blue-trees/blue_trees-1@2x.jpg 2x" alt="Blue Trees on Waugh Dr">	
+			</figure>	
+		</div>
+	</div>
+</main>
 
 
-<a href="/img/sets/blue-trees/blue_trees-1.jpg" class="image-link"><img src="/img/sets/blue-trees/blue_trees-1.jpg" alt=""></a>
 
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
 <script src="<?php autoVer('/js/scripts-min.js'); ?>"></script>
 
 

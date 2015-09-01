@@ -1110,7 +1110,7 @@
 		},
 	"\/assets\/bower_components\/magnific-popup\/dist\/jquery.magnific-popup.min.js": {
 		"fileType": 64,
-		"ignore": 1,
+		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/bower_components\/magnific-popup\/dist\/jquery.magnific-popup.min.js",
 		"outputAbbreviatedPath": "\/assets\/bower_components\/magnific-popup\/jquery.magnific-popup.min-min.js",
@@ -2018,6 +2018,17 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/js\/src\/media\/picturefill.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/src\/media\/picturefill.js",
+		"outputAbbreviatedPath": "\/js\/src\/picturefill-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/js\/src\/scripts.js": {
 		"fileType": 64,
 		"ignore": 0,
@@ -2278,15 +2289,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 1
 		},
-	"\/scss\/pages\/index\/_header.scss": {
+	"\/scss\/pages\/index\/_hero.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/scss\/pages\/index\/_header.scss",
-		"outputAbbreviatedPath": "\/css\/_header.css",
+		"inputAbbreviatedPath": "\/scss\/pages\/index\/_hero.scss",
+		"outputAbbreviatedPath": "\/css\/_hero.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -2319,6 +2330,22 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/scss\/pages\/index\/_index.scss",
 		"outputAbbreviatedPath": "\/css\/_index.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 1
+		},
+	"\/scss\/pages\/index\/_main.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scss\/pages\/index\/_main.scss",
+		"outputAbbreviatedPath": "\/css\/_main.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -2411,12 +2438,6 @@
 			"followForSyntaxChecking": 1,
 			"linkedFileAbbreviatedPath": "\/assets\/bower_components\/classie\/classie.js",
 			"position": 0,
-			"type": 0
-			},
-		{
-			"followForSyntaxChecking": 1,
-			"linkedFileAbbreviatedPath": "\/assets\/bower_components\/magnific-popup\/dist\/jquery.magnific-popup.min.js",
-			"position": 1,
 			"type": 0
 			}
 		]
