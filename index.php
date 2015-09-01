@@ -19,8 +19,23 @@
 	<![endif]-->
 
 </head>
-<body>
+<body id="index">
 
+<header>
+	<div class="row" id="nav-bar">
+		<div class="logo-container">
+			<a href="/">
+				<img src="/img/assets/logo/dark/logo@2x.png" alt="Houston Uncovered Logo" id="dark-logo">
+			</a>
+		</div>
+		<nav>
+			<ul id="main-nav">
+				<li><a href="#" class="active">home</a></li>
+				<li><a href="#" id="last">the city</a></li>
+			</ul>
+		</nav>
+	</div>
+</header>
 
 
 

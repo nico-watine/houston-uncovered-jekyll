@@ -4,6 +4,7 @@
  * 2. Prevent iOS and IE text size adjust after device orientation change,
  *    without disabling user zoom.
  */
+@import url("https://fonts.googleapis.com/css?family=Droid+Sans:400,700");
 html {
   font-family: sans-serif;
   /* 1 */
@@ -365,7 +366,7 @@ html {
 body {
   color: #333;
   font-weight: 400;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Droid Sans", sans-serif;
   line-height: 1.4; }
 
 p {
@@ -521,6 +522,44 @@ button {
 
 .margin-bottom {
   margin-bottom: 1.25rem; }
+
+body {
+  background: #F7F6FC url("/img/assets/bg/bg.jpg") no-repeat fixed center center;
+  background-size: cover; }
+
+header {
+  height: 37.5em;
+  width: 100%;
+  background: url("/img/index/hero/hero.jpg") no-repeat center;
+  background-size: cover;
+  box-shadow: 0 0.6875rem 0.4375rem 0 rgba(0, 0, 0, 0.19), 0 0.8125rem 1.5625rem 0 rgba(0, 0, 0, 0.3); }
+
+.row#nav-bar {
+  padding: 1.25em; }
+  .row#nav-bar .logo-container #dark-logo {
+    float: left;
+    max-width: 24.375em; }
+
+nav ul#main-nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  float: right; }
+  nav ul#main-nav li {
+    float: left; }
+    nav ul#main-nav li a {
+      text-decoration: none;
+      font-size: 1.3125rem;
+      padding: 0 1.25rem;
+      color: #fff;
+      text-shadow: 0.125rem 0.125rem 0.0625rem #2d2d2d;
+      border-right: 0.1875rem solid #F7F6FC; }
+      nav ul#main-nav li a:hover {
+        text-decoration: underline; }
+    nav ul#main-nav li a.active {
+      font-weight: 700; }
+    nav ul#main-nav li a#last {
+      border: 0; }
 
 @media screen and (max-width: 66.875em) {
   body {

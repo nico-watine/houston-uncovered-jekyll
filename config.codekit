@@ -495,6 +495,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/css\/ie.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/ie.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/css\/style.css": {
 		"fileType": 16,
 		"ignore": 1,
@@ -513,13 +522,35 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/img\/bg\/bg.jpg": {
+	"\/img\/assets\/bg\/bg.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 23355,
-		"inputAbbreviatedPath": "\/img\/bg\/bg.jpg",
-		"outputAbbreviatedPath": "\/img\/bg\/bg.jpg",
+		"inputAbbreviatedPath": "\/img\/assets\/bg\/bg.jpg",
+		"outputAbbreviatedPath": "\/img\/assets\/bg\/bg.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/assets\/logo\/dark\/logo@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16581,
+		"inputAbbreviatedPath": "\/img\/assets\/logo\/dark\/logo@2x.png",
+		"outputAbbreviatedPath": "\/img\/assets\/logo\/dark\/logo@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/assets\/logo\/light\/logo@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6888,
+		"inputAbbreviatedPath": "\/img\/assets\/logo\/light\/logo@2x.png",
+		"outputAbbreviatedPath": "\/img\/assets\/logo\/light\/logo@2x.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -531,28 +562,6 @@
 		"initialSize": 99014,
 		"inputAbbreviatedPath": "\/img\/index\/hero\/hero.jpg",
 		"outputAbbreviatedPath": "\/img\/index\/hero\/hero.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/logo\/dark\/logo@2x.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 16581,
-		"inputAbbreviatedPath": "\/img\/logo\/dark\/logo@2x.png",
-		"outputAbbreviatedPath": "\/img\/logo\/dark\/logo@2x.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/logo\/light\/logo@2x.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 6888,
-		"inputAbbreviatedPath": "\/img\/logo\/light\/logo@2x.png",
-		"outputAbbreviatedPath": "\/img\/logo\/light\/logo@2x.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -830,6 +839,22 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/scss\/ie.scss",
 		"outputAbbreviatedPath": "\/css\/ie.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 1
+		},
+	"\/scss\/pages\/index\/_header.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scss\/pages\/index\/_header.scss",
+		"outputAbbreviatedPath": "\/css\/_header.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
