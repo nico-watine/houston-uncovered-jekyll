@@ -19,29 +19,35 @@
 	<![endif]-->
 
 </head>
-<body id="index">
+<body style="height: 2000px;">
 
-<header>
-	<div class="row" id="nav-bar">
-		<div class="logo-container">
-			<a href="/">
-				<img src="/img/assets/logo/dark/logo@2x.png" alt="Houston Uncovered Logo" id="dark-logo">
+
+
+
+<header class="shrinking">
+	<div class="row">
+		<div class="logo-wrapper">
+			<a href="#">
+			<div id="sticky-logo">
+				<img src="/img/assets/logo/light/logo@2x.png" alt="Houston Uncovered Logo">
+			</div>
+			<img id="default-logo" src="/img/assets/logo/dark/logo@2x.png" alt="Houston Uncovered Logo">
 			</a>
 		</div>
 		<nav>
 			<ul id="main-nav">
 				<li><a href="#" class="active">home</a></li>
-				<li><a href="#" id="last">the city</a></li>
+				<li ><a href="/the-city/" id="last">the city</a></li>
 			</ul>
 		</nav>
 	</div>
 </header>
 
+<div class="hero"></div>
 
 
-
-
-
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="<?php autoVer('/js/scripts-min.js'); ?>"></script>
 
 
 </body>

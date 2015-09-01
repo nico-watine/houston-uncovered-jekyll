@@ -1,2 +1,147 @@
 @import "../settings/_settings.scss";
 
+
+header {
+	width:100%;
+	height: em(135);
+	position:fixed;
+	top:0;
+	z-index:999;
+	background-color: rgba(#222, 0);
+	@include transition-property(height);
+	@include transition-property(background-color);
+	@include transition-duration(0.3s);
+	padding: em(20);
+
+	@include media($width-610) {
+		@include transition(none);
+	}
+
+	@include media($width-480) {
+		position: absolute;
+	}
+}
+ 
+.logo-wrapper {
+	@include span-columns(6 of 16);
+	padding: 0 1.5em;
+
+	img {
+		@include transition-property(opacity);
+		@include transition-property(max-width);
+		@include transition-duration(0.3s);
+
+		@include media($width-610) {
+			@include transition(none);
+		}
+	}
+
+	@include media($width-770) {
+		@include span-columns(5 of 10);
+	}
+
+	@include media($width-480) {
+		@include span-columns(8 of 8);
+		text-align: center;
+	}
+}
+
+#sticky-logo {
+	position: relative;
+
+	img {
+		position: absolute;
+		opacity: 0;
+	}
+}
+
+img#default-logo {
+	opacity: 1;
+}
+
+@include media($width-770) {
+	#sticky-logo,
+	img#default-logo {
+		max-width: 280px;
+	}
+}
+
+header.smaller {
+	height: auto;
+	padding-bottom: em(10);
+	background-color: rgba(#222, .7);
+	box-shadow: 0px em(1) em(4) 0px #000;
+
+	#sticky-logo {
+		img {
+			opacity: 1;
+			max-width: 270px;
+		}
+	}
+
+	img#default-logo {
+		opacity: 0;
+		max-width: 270px;
+	}
+
+	@include media($width-1070) {
+		height: auto;
+
+		#sticky-logo img,
+		img#default-logo {
+			max-width: 235px;
+		}
+	}
+
+	@include media($width-480) {
+		@include span-columns(8 of 8);
+		
+		#default-logo {
+			display: none;
+		}
+
+		#sticky-logo {
+			margin: 0 auto;
+			text-align: center;
+
+			img {
+				position: relative;
+			}
+		}
+
+		.row {
+			nav {
+				position: relative;
+				top: em(10);
+
+				ul li a,
+				ul li#last a {
+					color: #fff;
+				}
+			}			
+		}
+	}
+}
+
+header.shrinking {
+	.logo-wrapper {
+		#sticky-logo {
+			@include media($width-480) {
+				visibility: hidden;
+				display: none;
+			}
+		}
+	}
+	
+	@include media($width-480) {
+		.row {
+			nav {
+				ul li a,
+				ul li#last a {
+					color: #000;
+					text-shadow: rem(1) rem(2) rem(0) #fff;
+				}
+			}			
+		}
+	}
+}
