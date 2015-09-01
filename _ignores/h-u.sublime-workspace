@@ -136,18 +136,26 @@
 	"buffers":
 	[
 		{
-			"file": "/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/index.php",
+			"file": "/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/pages/index/_header.scss",
 			"settings":
 			{
-				"buffer_size": 763,
+				"buffer_size": 221,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/blocks/_body.scss",
+			"file": "/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/index.php",
 			"settings":
 			{
-				"buffer_size": 157,
+				"buffer_size": 1338,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/blocks/_nav.scss",
+			"settings":
+			{
+				"buffer_size": 503,
 				"line_ending": "Unix"
 			}
 		},
@@ -155,31 +163,23 @@
 			"file": "/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/settings/_settings.scss",
 			"settings":
 			{
-				"buffer_size": 835,
+				"buffer_size": 813,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/pages/index/_index.scss",
+			"file": "/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/blocks/_header.scss",
 			"settings":
 			{
-				"buffer_size": 67,
+				"buffer_size": 2122,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/pages/index/_header.scss",
+			"file": "/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/assets/neat/_grid-settings.scss",
 			"settings":
 			{
-				"buffer_size": 84,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/style.scss",
-			"settings":
-			{
-				"buffer_size": 736,
+				"buffer_size": 831,
 				"line_ending": "Unix"
 			}
 		}
@@ -278,9 +278,17 @@
 	"expanded_folders":
 	[
 		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/assets",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/assets/bower_components",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/assets/bower_components/classie",
 		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/img",
 		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/img/assets",
 		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/img/assets/bg",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/img/assets/logo",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/img/assets/logo/dark",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/img/assets/logo/light",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/img/index",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/img/index/hero",
 		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss",
 		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/blocks",
 		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/pages",
@@ -289,12 +297,15 @@
 	"file_history":
 	[
 		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/js/src/scripts.js",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/index.php",
 		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/assets/neat/_grid-settings.scss",
 		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/style.scss",
-		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/components/_typography.scss",
-		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/index.php",
-		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/settings/_settings.scss",
 		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/components/_fonts.scss",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/blocks/_body.scss",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/settings/_settings.scss",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/pages/index/_index.scss",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/pages/index/_header.scss",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/components/_typography.scss",
 		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/the-city/east-end/index.php",
 		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/the-city/index.php",
 		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/the-city/east-end/abandoned-east-end-warehouse.php",
@@ -412,10 +423,7 @@
 		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/jquery/src/ajax/script.js",
 		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/jquery/src/effects/animatedSelector.js",
 		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower.json",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/services/what-we-do.html",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/thanks.html",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/css/app.css",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/js/foundation.js"
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/services/what-we-do.html"
 	],
 	"find":
 	{
@@ -434,6 +442,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"270px",
+			"%40",
+			"small",
 			"/img",
 			"font",
 			"map",
@@ -558,10 +569,7 @@
 			"button",
 			"h4",
 			"p",
-			"How",
-			"h3",
-			"p",
-			"h4"
+			"How"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -600,24 +608,28 @@
 	"groups":
 	[
 		{
-			"selected": 4,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/index.php",
+					"file": "/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/pages/index/_header.scss",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 763,
+						"buffer_size": 221,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								727,
-								727
+								53,
+								53
+							],
+							[
+								215,
+								215
 							]
 						],
 						"settings":
@@ -681,97 +693,9 @@
 								"bh_tag_close",
 								"bh_tag_content"
 							],
-							"color_scheme": "Packages/User/base-16.ocean-dark(custom).tmTheme",
-							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
 							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/blocks/_body.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 157,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								97,
-								97
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content"
-							],
-							"color_scheme": "Packages/User/base-16.ocean-dark(custom).tmTheme",
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -781,20 +705,20 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/settings/_settings.scss",
+					"buffer": 1,
+					"file": "/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/index.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 835,
+						"buffer_size": 1338,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								444,
-								444
+								801,
+								801
 							]
 						],
 						"settings":
@@ -802,63 +726,418 @@
 							"BracketHighlighterBusy": false,
 							"bh_regions":
 							[
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
 								"bh_single_quote",
 								"bh_single_quote_center",
 								"bh_single_quote_open",
 								"bh_single_quote_close",
 								"bh_single_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
 								"bh_angle_close",
 								"bh_angle_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
 								"bh_regex_close",
 								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
 								"bh_round_close",
-								"bh_round_content"
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
 							],
-							"color_scheme": "Packages/User/base-16.ocean-dark(custom).tmTheme",
+							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 318.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/blocks/_nav.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 503,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								253,
+								253
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/settings/_settings.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 813,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/blocks/_header.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2122,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								281,
+								281
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 871.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/assets/neat/_grid-settings.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 831,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								493,
+								493
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
 							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
 						},
 						"translation.x": 0.0,
@@ -866,270 +1145,6 @@
 						"zoom_level": 1.0
 					},
 					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/pages/index/_index.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 67,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								62,
-								62
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content"
-							],
-							"color_scheme": "Packages/User/base-16.ocean-dark(custom).tmTheme",
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/pages/index/_header.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 84,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								84,
-								84
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"_anf_new": "",
-							"bh_regions":
-							[
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content"
-							],
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/style.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 736,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3,
-								3
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content"
-							],
-							"color_scheme": "Packages/User/base-16.ocean-dark(custom).tmTheme",
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
 					"type": "text"
 				}
 			]
@@ -1184,16 +1199,52 @@
 		"selected_items":
 		[
 			[
+				"sett",
+				"scss/settings/_settings.scss"
+			],
+			[
 				"in",
 				"index.php"
 			],
 			[
-				"st",
-				"scss/style.scss"
+				"gri",
+				"assets/neat/_grid-settings.scss"
+			],
+			[
+				"scrij",
+				"js/src/scripts.js"
+			],
+			[
+				"gris",
+				"assets/neat/_grid-settings.scss"
+			],
+			[
+				"hea",
+				"scss/blocks/_header.scss"
+			],
+			[
+				"inhea",
+				"scss/pages/index/_header.scss"
+			],
+			[
+				"typ",
+				"scss/components/_typography.scss"
+			],
+			[
+				"inhe",
+				"scss/pages/index/_header.scss"
 			],
 			[
 				"set",
 				"scss/settings/_settings.scss"
+			],
+			[
+				"fonts",
+				"scss/components/_fonts.scss"
+			],
+			[
+				"st",
+				"scss/style.scss"
 			],
 			[
 				"scip",
@@ -1202,10 +1253,6 @@
 			[
 				"scrj",
 				"js/src/scripts.js"
-			],
-			[
-				"gris",
-				"assets/neat/_grid-settings.scss"
 			],
 			[
 				"stys",
@@ -1218,10 +1265,6 @@
 			[
 				"typo",
 				"scss/components/_typography.scss"
-			],
-			[
-				"scrij",
-				"js/src/scripts.js"
 			],
 			[
 				"eas",
@@ -1254,10 +1297,6 @@
 			[
 				"scr",
 				"js/src/scripts.js"
-			],
-			[
-				"fonts",
-				"scss/components/_fonts.scss"
 			],
 			[
 				"stc",
@@ -1452,10 +1491,6 @@
 				"events.html"
 			],
 			[
-				"hea",
-				"scss/_header.scss"
-			],
-			[
 				"locas",
 				"scss/_location.scss"
 			],
@@ -1518,10 +1553,6 @@
 			[
 				"co",
 				"bower_components/modernizr/feature-detects/css-objectfit.js"
-			],
-			[
-				"sett",
-				"scss/_settings.scss"
 			],
 			[
 				"evs",
@@ -1678,22 +1709,6 @@
 			[
 				"redir",
 				"_includes/head/redirect.html"
-			],
-			[
-				"laymob",
-				"_layouts/posts/mobile.html"
-			],
-			[
-				"1stm",
-				"_posts/2014-09-04-1st-post-ever(m).md"
-			],
-			[
-				"post/de",
-				"_layouts/posts/default.html"
-			],
-			[
-				"head-m",
-				"_includes/head/head-m.html"
 			]
 		],
 		"width": 0.0
@@ -1701,19 +1716,19 @@
 	"select_project":
 	{
 		"height": 500.0,
-		"last_filter": "j",
+		"last_filter": "ni",
 		"selected_items":
 		[
+			[
+				"ni",
+				"~/SNC Projects/nicowatine.me/Site Folder/nicowatine.me/_ignores/nico.sublime-project"
+			],
 			[
 				"j",
 				"~/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/_ignores/jdftx.sublime-project"
 			],
 			[
 				"N",
-				"~/SNC Projects/nicowatine.me/Site Folder/nicowatine.me/_ignores/nico.sublime-project"
-			],
-			[
-				"ni",
 				"~/SNC Projects/nicowatine.me/Site Folder/nicowatine.me/_ignores/nico.sublime-project"
 			],
 			[
@@ -1791,7 +1806,7 @@
 	"show_minimap": false,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 328.0,
 	"status_bar_visible": true,
 	"template_settings":
