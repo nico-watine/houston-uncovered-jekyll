@@ -26,17 +26,12 @@ p {
 	margin-bottom: $baseline;
 }
 
-
-a.light-link,
-a.white {
-	color: #f1f1f1;
-}
-
-a.inverse {
-	text-decoration: none;
+a,
+a:visited {
+	color: $link-color;
 
 	&:hover {
-		text-decoration: underline;
+		text-decoration: none;
 	}
 }
 
@@ -108,24 +103,4 @@ h6 {
 		font-size: $h6-size;
 	}
 }
-
-.page-title {
-	text-align: center;
-	font-size: rem(45);
-	padding-top: rem(25);
-}
-
-.title {
-	font-family: 'Track';
-	text-align: center;
-}
-
-.white-title {
-	font-family: 'Track';
-	text-align: center;
-	color: #f1f1f1;
-	text-shadow: rem(1) rem(2) rem(1) #000;
-}
-
-
 
