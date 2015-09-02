@@ -362,9 +362,9 @@ html {
 
 @font-face {
   font-family: 'Track';
-  src: url("/fonts/track/Track.eot");
+  src: url("/fonts/track/track.eot");
   /* IE9 Compat Modes */
-  src: url("/fonts/track/Track.eot?#iefix") format("embedded-opentype"), url("/fonts/track/Track.woff") format("woff"), url("/fonts/track/Track.ttf") format("truetype"), url("/fonts/track/Track.svg#92ea731d3af6677905303c88689f5d55") format("svg");
+  src: url("/fonts/track/track.eot?#iefix") format("embedded-opentype"), url("/fonts/track/track.woff") format("woff"), url("/fonts/track/track.ttf") format("truetype"), url("/fonts/track/track.svg#92ea731d3af6677905303c88689f5d55") format("svg");
   /* Legacy iOS */
   font-style: normal;
   font-weight: 400; }
