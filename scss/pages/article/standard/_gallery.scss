@@ -12,16 +12,31 @@ main.gallery {
 		width: 100%;
 	}
 
-	img.left-half,
-	img.right-half {
-		position: absolute;
+	img.half-width {
+		width: 48%;
 	}
 
-	img.left-half {
-		left: 0;
+	img.half-width.left {
+		float: left;
 	}
 
-	img.right-half {
-		right: 0;
+	img.half-width.right {
+		float: right;
+	}
+}
+
+@include media($width-770) {
+	main.gallery {
+		img {
+			margin-bottom: em(35);
+		}
+	}
+}
+
+@include media($width-610) {
+	main.gallery {
+		img.half-width {
+			width: 100%;
+		}
 	}
 }

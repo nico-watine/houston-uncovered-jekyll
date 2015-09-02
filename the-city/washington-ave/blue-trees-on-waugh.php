@@ -54,11 +54,11 @@
 <main class="gallery">
 	<img id="img-1" class="full-width" srcset="/img/sets/blue-trees/gallery/blue-trees(1).jpg 1x, /img/sets/blue-trees/gallery/blue-trees(1)@2x.jpg 2x" alt="Blue Trees Panorama Shot #1">
 	<img id="img-2" class="full-width" srcset="/img/sets/blue-trees/gallery/blue-trees(2).jpg 1x, /img/sets/blue-trees/gallery/blue-trees(2)@2x.jpg 2x" alt="Blue Trees Panorama Shot #2">
-	<img id="img-3" class="full-width" srcset="/img/sets/blue-trees/gallery/blue-trees(3).jpg 1x, /img/sets/blue-trees/gallery/blue-trees(3)@2x.jpg 2x" alt="Blue Trees Panorama Shot #3">
 	<div class="row">
-		<img id="img-4" class="left-half" srcset="/img/sets/blue-trees/gallery/blue-trees(4).jpg 1x, /img/sets/blue-trees/gallery/blue-trees(4)@2x.jpg 2x" alt="Blue Trees Panorama Shot #4">
-		<img id="img-5" class="right-half" srcset="/img/sets/blue-trees/gallery/blue-trees(5).jpg 1x, /img/sets/blue-trees/gallery/blue-trees(5)@2x.jpg 2x" alt="Blue Trees Panorama Shot #5">
+		<img id="img-3" class="half-width left" srcset="/img/sets/blue-trees/gallery/blue-trees(4).jpg 1x, /img/sets/blue-trees/gallery/blue-trees(4)@2x.jpg 2x" alt="View of Downtown Houston Through the Blue Trees">
+		<img id="img-4" class="half-width right" srcset="/img/sets/blue-trees/gallery/blue-trees(5).jpg 1x, /img/sets/blue-trees/gallery/blue-trees(5)@2x.jpg 2x" alt="View From Inside the Circle of Blue Trees">
 	</div>
+	<img id="img-5" class="full-width" srcset="/img/sets/blue-trees/gallery/blue-trees(3).jpg 1x, /img/sets/blue-trees/gallery/blue-trees(3)@2x.jpg 2x" alt="Blue Trees Panorama Shot #3">
 </main>
 
 

@@ -40,3 +40,9 @@
 		box-shadow: $z-3;
 	}
 }
+
+@include media($width-770) {
+	.hero.standard {
+		margin-bottom: em(35);
+	}
+}
