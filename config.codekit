@@ -1998,13 +1998,24 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/sets\/blue-trees\/splash\/blue-trees.jpg": {
+	"\/img\/sets\/blue-trees\/hero\/blue-trees.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 515349,
-		"inputAbbreviatedPath": "\/img\/sets\/blue-trees\/splash\/blue-trees.jpg",
-		"outputAbbreviatedPath": "\/img\/sets\/blue-trees\/splash\/blue-trees.jpg",
+		"inputAbbreviatedPath": "\/img\/sets\/blue-trees\/hero\/blue-trees.jpg",
+		"outputAbbreviatedPath": "\/img\/sets\/blue-trees\/hero\/blue-trees.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/sets\/ominous-downtown\/hero\/ominous-downtown.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 76463,
+		"inputAbbreviatedPath": "\/img\/sets\/ominous-downtown\/hero\/ominous-downtown.jpg",
+		"outputAbbreviatedPath": "\/img\/sets\/ominous-downtown\/hero\/ominous-downtown.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
