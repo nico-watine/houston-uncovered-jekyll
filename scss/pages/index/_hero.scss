@@ -3,12 +3,40 @@
 body#index {
 	.hero {
 		.hero-text {
+			padding: 0;
 			h1 {
 				margin-bottom: rem(22);
 			}
 		}
 	}	
 }
+
+@include media($width-970) {
+	body#index {
+		.hero {
+			.hero-text {
+				h1 {
+					font-size: rem(46);
+				}
+			}
+		}	
+	}
+}
+
+@include media($width-770) {
+	body#index {
+		.hero {
+			.hero-text {
+				top: 45%;
+				h1 {
+					font-size: rem(34);
+					margin-bottom: rem(10);
+				}
+			}
+		}	
+	}
+}
+
 
 // .hero.standard {
 // 	position: relative;

@@ -37,3 +37,24 @@ nav {
 	}
 }
 
+@include media($width-970) {
+	nav {
+		padding-top: em(10);
+	}
+}
+
+@include media($width-770) {
+	nav {
+		padding-top: em(10);
+		ul#main-nav {
+			li {
+				a {
+					font-size: rem(18);
+				}
+				a#last {
+					padding-right: 0;
+				}
+			}
+		}
+	}
+}
