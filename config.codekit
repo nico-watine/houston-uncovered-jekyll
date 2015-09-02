@@ -1998,28 +1998,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/sets\/blue-trees\/gallery\/_ignores\/blue-trees(5).jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 136776,
-		"inputAbbreviatedPath": "\/img\/sets\/blue-trees\/gallery\/_ignores\/blue-trees(5).jpg",
-		"outputAbbreviatedPath": "\/img\/sets\/blue-trees\/gallery\/_ignores\/blue-trees(5).jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/sets\/blue-trees\/gallery\/_ignores\/blue-trees(5)@2x.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 341143,
-		"inputAbbreviatedPath": "\/img\/sets\/blue-trees\/gallery\/_ignores\/blue-trees(5)@2x.jpg",
-		"outputAbbreviatedPath": "\/img\/sets\/blue-trees\/gallery\/_ignores\/blue-trees(5)@2x.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/img\/sets\/blue-trees\/gallery\/blue-trees(1).jpg": {
 		"fileType": 16384,
 		"ignore": 0,
