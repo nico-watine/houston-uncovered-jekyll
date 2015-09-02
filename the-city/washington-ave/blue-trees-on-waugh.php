@@ -48,7 +48,7 @@
 		<h1>The Blue Trees on <span class="inline-block">Waugh Drive</span></h1>
 		<h3>Washington Ave</h3>
 	</div>
-	<img src="/img/sets/blue-trees/splash/blue-trees.jpg" alt="Blue Trees on Waugh Hero Image">
+	<img src="/img/sets/blue-trees/hero/blue-trees.jpg" alt="Blue Trees on Waugh Hero Image">
 </section>
 
 
