@@ -2042,6 +2042,72 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/sets\/blue-trees\/gallery\/blue-trees(3).jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 276136,
+		"inputAbbreviatedPath": "\/img\/sets\/blue-trees\/gallery\/blue-trees(3).jpg",
+		"outputAbbreviatedPath": "\/img\/sets\/blue-trees\/gallery\/blue-trees(3).jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/sets\/blue-trees\/gallery\/blue-trees(3)@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 810597,
+		"inputAbbreviatedPath": "\/img\/sets\/blue-trees\/gallery\/blue-trees(3)@2x.jpg",
+		"outputAbbreviatedPath": "\/img\/sets\/blue-trees\/gallery\/blue-trees(3)@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/sets\/blue-trees\/gallery\/blue-trees(4).jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 188760,
+		"inputAbbreviatedPath": "\/img\/sets\/blue-trees\/gallery\/blue-trees(4).jpg",
+		"outputAbbreviatedPath": "\/img\/sets\/blue-trees\/gallery\/blue-trees(4).jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/sets\/blue-trees\/gallery\/blue-trees(4)@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 493509,
+		"inputAbbreviatedPath": "\/img\/sets\/blue-trees\/gallery\/blue-trees(4)@2x.jpg",
+		"outputAbbreviatedPath": "\/img\/sets\/blue-trees\/gallery\/blue-trees(4)@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/sets\/blue-trees\/gallery\/blue-trees(5).jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 136776,
+		"inputAbbreviatedPath": "\/img\/sets\/blue-trees\/gallery\/blue-trees(5).jpg",
+		"outputAbbreviatedPath": "\/img\/sets\/blue-trees\/gallery\/blue-trees(5).jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/sets\/blue-trees\/gallery\/blue-trees(5)@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 341143,
+		"inputAbbreviatedPath": "\/img\/sets\/blue-trees\/gallery\/blue-trees(5)@2x.jpg",
+		"outputAbbreviatedPath": "\/img\/sets\/blue-trees\/gallery\/blue-trees(5)@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/sets\/blue-trees\/hero\/blue-trees.jpg": {
 		"fileType": 16384,
 		"ignore": 0,

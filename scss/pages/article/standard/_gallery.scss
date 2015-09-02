@@ -7,4 +7,16 @@ main.gallery {
 		box-shadow: $z-3;
 		margin-bottom: em(50);
 	}
+
+	img.full-width {
+		width: 100%;
+	}
+
+	img.left-half {
+		float: left;
+	}
+
+	img.right-half {
+		float: right;
+	}
 }

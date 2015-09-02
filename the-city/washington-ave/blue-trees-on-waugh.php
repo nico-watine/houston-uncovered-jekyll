@@ -22,7 +22,7 @@
 	<![endif]-->
 
 </head>
-<body id="blue-trees" style="height: 2000px;">
+<body id="blue-trees">
 
 <header class="shrinking">
 	<div class="row">
@@ -52,8 +52,13 @@
 </section>
 
 <main class="gallery">
-	<img srcset="/img/sets/blue-trees/gallery/blue-trees(1).jpg 1x, /img/sets/blue-trees/gallery/blue-trees(1)@2x.jpg 2x" alt="Blue Trees Panorama Shot #1">
-	<img srcset="/img/sets/blue-trees/gallery/blue-trees(2).jpg 1x, /img/sets/blue-trees/gallery/blue-trees(2)@2x.jpg 2x" alt="Blue Trees Panorama Shot #2">
+	<img id="img-1" class="full-width" srcset="/img/sets/blue-trees/gallery/blue-trees(1).jpg 1x, /img/sets/blue-trees/gallery/blue-trees(1)@2x.jpg 2x" alt="Blue Trees Panorama Shot #1">
+	<img id="img-2" class="full-width" srcset="/img/sets/blue-trees/gallery/blue-trees(2).jpg 1x, /img/sets/blue-trees/gallery/blue-trees(2)@2x.jpg 2x" alt="Blue Trees Panorama Shot #2">
+	<img id="img-3" class="full-width" srcset="/img/sets/blue-trees/gallery/blue-trees(3).jpg 1x, /img/sets/blue-trees/gallery/blue-trees(3)@2x.jpg 2x" alt="Blue Trees Panorama Shot #3">
+	<div class="row">
+		<img id="img-4" class="left-half" srcset="/img/sets/blue-trees/gallery/blue-trees(4).jpg 1x, /img/sets/blue-trees/gallery/blue-trees(4)@2x.jpg 2x" alt="Blue Trees Panorama Shot #4">
+		<img id="img-5" class="right-half" srcset="/img/sets/blue-trees/gallery/blue-trees(5).jpg 1x, /img/sets/blue-trees/gallery/blue-trees(5)@2x.jpg 2x" alt="Blue Trees Panorama Shot #5">
+	</div>
 </main>
 
 

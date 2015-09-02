@@ -587,7 +587,8 @@ img#default-logo {
 header.smaller {
   padding: 1em 1.25em;
   background-color: rgba(34, 34, 34, 0.7);
-  box-shadow: 0px 0.0625em 0.25em 0px #000; }
+  box-shadow: 0px 0.0625em 0.25em 0px #000;
+  height: 6.5625em; }
   header.smaller #sticky-logo img {
     opacity: 1;
     max-width: 16.875em; }
@@ -647,6 +648,12 @@ main.gallery {
   main.gallery img {
     box-shadow: 0 0.6875rem 0.4375rem 0 rgba(0, 0, 0, 0.19), 0 0.8125rem 1.5625rem 0 rgba(0, 0, 0, 0.3);
     margin-bottom: 3.125em; }
+  main.gallery img.full-width {
+    width: 100%; }
+  main.gallery img.left-half {
+    float: left; }
+  main.gallery img.right-half {
+    float: right; }
 
 .hero.standard {
   position: relative;
@@ -671,6 +678,18 @@ main.gallery {
     font-weight: 400; }
   .hero.standard img {
     box-shadow: 0 0.6875rem 0.4375rem 0 rgba(0, 0, 0, 0.19), 0 0.8125rem 1.5625rem 0 rgba(0, 0, 0, 0.3); }
+
+body#blue-trees .row {
+  position: relative;
+  height: 600px; }
+  body#blue-trees .row img#img-4 {
+    position: absolute;
+    height: 100%;
+    left: 0; }
+  body#blue-trees .row img#img-5 {
+    position: absolute;
+    height: 100%;
+    right: 0; }
 
 @media screen and (max-width: 66.875em) {
   body {
