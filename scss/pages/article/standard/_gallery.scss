@@ -12,11 +12,16 @@ main.gallery {
 		width: 100%;
 	}
 
+	img.left-half,
+	img.right-half {
+		position: absolute;
+	}
+
 	img.left-half {
-		float: left;
+		left: 0;
 	}
 
 	img.right-half {
-		float: right;
+		right: 0;
 	}
 }

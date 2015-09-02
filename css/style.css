@@ -650,10 +650,13 @@ main.gallery {
     margin-bottom: 3.125em; }
   main.gallery img.full-width {
     width: 100%; }
-  main.gallery img.left-half {
-    float: left; }
+  main.gallery img.left-half,
   main.gallery img.right-half {
-    float: right; }
+    position: absolute; }
+  main.gallery img.left-half {
+    left: 0; }
+  main.gallery img.right-half {
+    right: 0; }
 
 .hero.standard {
   position: relative;
@@ -683,13 +686,9 @@ body#blue-trees .row {
   position: relative;
   height: 600px; }
   body#blue-trees .row img#img-4 {
-    position: absolute;
-    height: 100%;
-    left: 0; }
+    height: 100%; }
   body#blue-trees .row img#img-5 {
-    position: absolute;
-    height: 100%;
-    right: 0; }
+    height: 100%; }
 
 @media screen and (max-width: 66.875em) {
   body {
