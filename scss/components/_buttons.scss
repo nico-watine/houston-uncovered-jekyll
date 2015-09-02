@@ -31,3 +31,20 @@ button {
         padding: rem(13) rem(21) rem(16); 
     }
 }
+
+
+a.opaque-button {
+    background: rgba(255, 255, 255, .4);
+    border: rem(2) solid #f1f1f1;
+    box-shadow: $z-2;
+    @include transition (background 70ms ease-out 0s);
+    text-shadow: rem(1) rem(1) rem(2) #000;
+
+    &:hover {
+        box-shadow: $z-1;
+        text-shadow: none;
+        background: rgba(255, 255, 255, 1);
+    }
+}
+
+
