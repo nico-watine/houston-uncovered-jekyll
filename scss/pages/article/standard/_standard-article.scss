@@ -1,0 +1,40 @@
+@import "../../../settings/_settings.scss";
+
+.hero.standard {
+	position: relative;
+	margin-bottom: em(50);
+
+	.hero-text {
+		position: absolute;
+		top: 50%;
+		width: 100%;
+		text-align: center;
+		padding: 0 em(20);
+	}
+
+	.hero-text.light {
+		h1,
+		h3 {
+			text-shadow: rem(1) rem(2) rem(3) #000;
+			color: #fff;
+		}
+	}
+
+	h1,
+	h3 {
+		margin: 0;
+	}
+
+	h1 {
+		font-family: $title-font-family;
+		font-weight: $title-font-weight;
+	}
+
+	h3 {
+		font-weight: $body-font-weight;
+	}
+
+	img {
+		box-shadow: $z-3;
+	}
+}
