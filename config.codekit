@@ -1998,6 +1998,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/sets\/blue-trees\/splash\/blue-trees.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 515349,
+		"inputAbbreviatedPath": "\/img\/sets\/blue-trees\/splash\/blue-trees.jpg",
+		"outputAbbreviatedPath": "\/img\/sets\/blue-trees\/splash\/blue-trees.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/sets\/reclaimed-gas-station\/600x330\/reclaimed-gas-station.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2397,6 +2408,22 @@
 		"shouldRunBless": 0,
 		"useLibsass": 1
 		},
+	"\/scss\/pages\/the-city\/washington-ave\/blue-trees-on-waugh\/_blue-trees-on-waugh.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scss\/pages\/the-city\/washington-ave\/blue-trees-on-waugh\/_blue-trees-on-waugh.scss",
+		"outputAbbreviatedPath": "\/css\/_blue-trees-on-waugh.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 1
+		},
 	"\/scss\/settings\/_development-styles.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -2460,6 +2487,15 @@
 		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
 		"useLibsass": 1
+		},
+	"\/the-city\/washington-ave\/blue-trees-on-waugh.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/the-city\/washington-ave\/blue-trees-on-waugh.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/touch-icon-192x192.png": {
 		"fileType": 32768,
