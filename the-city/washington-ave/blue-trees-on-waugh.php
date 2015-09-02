@@ -51,6 +51,11 @@
 	<img src="/img/sets/blue-trees/hero/blue-trees.jpg" alt="Blue Trees on Waugh Hero Image">
 </section>
 
+<main class="gallery">
+	<img srcset="/img/sets/blue-trees/gallery/blue-trees(1).jpg 1x, /img/sets/blue-trees/gallery/blue-trees(1)@2x.jpg 2x" alt="Blue Trees Panorama Shot #1">
+	<img srcset="/img/sets/blue-trees/gallery/blue-trees(2).jpg 1x, /img/sets/blue-trees/gallery/blue-trees(2)@2x.jpg 2x" alt="Blue Trees Panorama Shot #2">
+</main>
+
 
 
 
