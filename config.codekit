@@ -2112,9 +2112,20 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 76463,
+		"initialSize": 65554,
 		"inputAbbreviatedPath": "\/img\/sets\/ominous-downtown\/hero\/ominous-downtown.jpg",
 		"outputAbbreviatedPath": "\/img\/sets\/ominous-downtown\/hero\/ominous-downtown.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/sets\/ominous-downtown\/hero\/ominous-downtown@mobile.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30852,
+		"inputAbbreviatedPath": "\/img\/sets\/ominous-downtown\/hero\/ominous-downtown@mobile.jpg",
+		"outputAbbreviatedPath": "\/img\/sets\/ominous-downtown\/hero\/ominous-downtown@mobile.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

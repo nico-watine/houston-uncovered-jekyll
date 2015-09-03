@@ -1,6 +1,6 @@
 @import "../settings/_settings.scss";
 
-
+$max-701: "only screen and (max-width : 701px)";
 
 nav {
 	ul#main-nav {
@@ -58,3 +58,34 @@ nav {
 		}
 	}
 }
+
+@media #{$max-701} {
+	nav {
+		padding-top: 0;
+		ul#main-nav {
+			li {
+				a {
+					border: 0;
+					padding: 0 rem(12);
+				}
+			}
+		}
+	}
+}
+
+@include media($width-610) {
+	nav {
+		ul#main-nav {
+			float: none;
+			li {
+				float: none;
+				margin-bottom: em(8);
+
+				a {
+					font-size: rem(20);
+				}
+			}
+		}
+	}
+}
+
