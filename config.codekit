@@ -2119,6 +2119,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/sets\/blue-trees\/index\/gallery-link\/blue-trees.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 77127,
+		"inputAbbreviatedPath": "\/img\/sets\/blue-trees\/index\/gallery-link\/blue-trees.jpg",
+		"outputAbbreviatedPath": "\/img\/sets\/blue-trees\/index\/gallery-link\/blue-trees.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/sets\/blue-trees\/index\/gallery-link\/blue-trees@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 186600,
+		"inputAbbreviatedPath": "\/img\/sets\/blue-trees\/index\/gallery-link\/blue-trees@2x.jpg",
+		"outputAbbreviatedPath": "\/img\/sets\/blue-trees\/index\/gallery-link\/blue-trees@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/sets\/ominous-downtown\/hero\/ominous-downtown.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2148,6 +2170,28 @@
 		"initialSize": 101077,
 		"inputAbbreviatedPath": "\/img\/sets\/reclaimed-gas-station\/600x330\/reclaimed-gas-station@2x.jpg",
 		"outputAbbreviatedPath": "\/img\/sets\/reclaimed-gas-station\/600x330\/reclaimed-gas-station@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/sets\/reclaimed-gas-station\/index\/gallery-link\/abandoned-gas-station1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 60129,
+		"inputAbbreviatedPath": "\/img\/sets\/reclaimed-gas-station\/index\/gallery-link\/abandoned-gas-station1.jpg",
+		"outputAbbreviatedPath": "\/img\/sets\/reclaimed-gas-station\/index\/gallery-link\/abandoned-gas-station1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/sets\/reclaimed-gas-station\/index\/gallery-link\/abandoned-gas-station1@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 128495,
+		"inputAbbreviatedPath": "\/img\/sets\/reclaimed-gas-station\/index\/gallery-link\/abandoned-gas-station1@2x.jpg",
+		"outputAbbreviatedPath": "\/img\/sets\/reclaimed-gas-station\/index\/gallery-link\/abandoned-gas-station1@2x.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

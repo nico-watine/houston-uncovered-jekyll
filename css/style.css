@@ -689,6 +689,10 @@ figure.gallery-link {
   figure.gallery-link img {
     box-shadow: 0 0.125rem 0.125rem 0 rgba(0, 0, 0, 0.2), 0 0.375rem 0.625rem 0 rgba(0, 0, 0, 0.3); }
 
+@media screen and (max-width: 38.125em) {
+  figure.gallery-link {
+    width: 100%;
+    margin: 0 0 1.875em; } }
 main.gallery {
   text-align: center; }
   main.gallery img {

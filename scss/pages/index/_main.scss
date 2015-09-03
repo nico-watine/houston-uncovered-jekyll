@@ -25,3 +25,9 @@ figure.gallery-link {
 	}
 }
 
+@include media($width-610) {
+	figure.gallery-link {
+		width: 100%;
+		margin: 0 0 em(30);
+	}
+}
