@@ -671,7 +671,8 @@ figure.gallery-link {
   display: block;
   margin-right: 1.75788%;
   width: 49.12106%;
-  position: relative; }
+  position: relative;
+  margin-bottom: 3.125em; }
   figure.gallery-link:last-child {
     margin-right: 0; }
   figure.gallery-link .label {

@@ -22,7 +22,7 @@
 	<![endif]-->
 
 </head>
-<body id="index" style="height: 2000px;">
+<body id="index">
 
 
 <header class="shrinking">
