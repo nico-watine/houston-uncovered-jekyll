@@ -3,7 +3,7 @@
 $max-701: "only screen and (max-width : 701px)";
 
 
-body#index {
+#index {
 	.hero {
 		.hero-text {
 			padding: 0;
@@ -22,7 +22,7 @@ body#index {
 
 
 @include media($width-770) {
-	body#index {
+	#index {
 		.hero {
 			.hero-text {
 				h1 {
@@ -39,7 +39,7 @@ body#index {
 }
 
 @media #{$max-701} {
-	body#index {
+	#index {
 		.hero {
 			.hero-text {
 				a#call-to-action {
@@ -52,9 +52,9 @@ body#index {
 }
 
 @include media($width-610) {
-	body#index {
+	#index {
 		.hero {
-			background: $brick-gray url('/img/sets/ominous-downtown/hero/ominous-downtown@mobile.jpg') no-repeat center top;
+			background: $brick-gray url('/img/sets/ominous-downtown/hero/ominous-downtown@mobile.jpg') center top;
 
 			.hero-text {
 				a#call-to-action {

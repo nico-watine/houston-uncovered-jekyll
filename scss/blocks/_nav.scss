@@ -2,37 +2,35 @@
 
 $max-701: "only screen and (max-width : 701px)";
 
-nav {
-	ul#main-nav {
-		list-style-type: none;
-		margin: 0;
-		padding: 0;
-		float: right;
+ul#main-nav {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	float: right;
 
-		li {
-			float: left;
+	li {
+		float: left;
 
-			a {
-				text-decoration: none;
-				font-size: rem(21);
-				padding: 0 rem(20);
-				color: #fff;
-				text-shadow: rem(1) rem(2) rem(2) #000;
+		a {
+			text-decoration: none;
+			font-size: rem(21);
+			padding: 0 rem(20);
+			color: #fff;
+			text-shadow: rem(1) rem(2) rem(2) #000;
 
-				border-right: rem(3) solid $brick-gray;
+			border-right: rem(3) solid $brick-gray;
 
-				&:hover {
-					text-decoration: underline;
-				}
+			&:hover {
+				text-decoration: underline;
 			}
+		}
 
-			a.active {
-				font-weight: $header-font-weight;
-			}
+		a.active {
+			font-weight: $header-font-weight;
+		}
 
-			a#last {
-				border: 0;
-			}
+		a#last {
+			border: 0;
 		}
 	}
 }
@@ -44,16 +42,13 @@ nav {
 }
 
 @include media($width-770) {
-	nav {
-		padding-top: em(10);
-		ul#main-nav {
-			li {
-				a {
-					font-size: rem(18);
-				}
-				a#last {
-					padding-right: 0;
-				}
+	ul#main-nav {
+		li {
+			a {
+				font-size: rem(18);
+			}
+			a#last {
+				padding-right: 0;
 			}
 		}
 	}
@@ -74,16 +69,15 @@ nav {
 }
 
 @include media($width-610) {
-	nav {
-		ul#main-nav {
+	ul#main-nav {
+		float: none;
+		li {
 			float: none;
-			li {
-				float: none;
-				margin-bottom: em(8);
+			margin-bottom: em(8);
 
-				a {
-					font-size: rem(20);
-				}
+			a {
+				padding: 0;
+				font-size: rem(20);
 			}
 		}
 	}
