@@ -7,40 +7,29 @@ body#index {
 	.hero {
 		.hero-text {
 			padding: 0;
+
 			h1 {
 				margin-bottom: rem(22);
 			}
 
-			a.button {
+			a#call-to-action {
 				font-size: rem(28);
 			}
 		}
 	}	
 }
 
-@include media($width-970) {
-	body#index {
-		.hero {
-			.hero-text {
-				h1 {
-					font-size: rem(43);
-				}
-			}
-		}	
-	}
-}
+
 
 @include media($width-770) {
 	body#index {
 		.hero {
 			.hero-text {
-				top: 60%;
 				h1 {
-					font-size: rem(34);
 					margin-bottom: rem(10);
 				}
 
-				a.button {
+				a#call-to-action {
 					font-size: rem(22);
 					padding: rem(13) rem(26) rem(16);
 				}
@@ -53,11 +42,7 @@ body#index {
 	body#index {
 		.hero {
 			.hero-text {
-				h1 {
-					font-size: rem(30);
-					margin-bottom: rem(6);
-				}
-				a.button {
+				a#call-to-action {
 					font-size: rem(20);
 					padding: rem(9) rem(26) rem(12);
 				}
@@ -65,30 +50,16 @@ body#index {
 		}	
 	}
 }
+
 @include media($width-610) {
 	body#index {
 		.hero {
-			height: em(360);
 			background: $brick-gray url('/img/sets/ominous-downtown/hero/ominous-downtown@mobile.jpg') no-repeat center top;
-			box-shadow: $z-3;
 
 			.hero-text {
-				top: 55%;
-
-				h1 {
-					font-size: rem(28);
-					padding: 0 rem(22);
-					margin-bottom: rem(14);
-				}
-
-				a.button {
+				a#call-to-action {
 					font-size: rem(18);
 				}
-			}
-
-			img {
-				visibility: hidden;
-				display: none;
 			}
 		}
 	}

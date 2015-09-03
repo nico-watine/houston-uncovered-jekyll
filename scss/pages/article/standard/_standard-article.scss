@@ -2,7 +2,7 @@
 @import "_gallery.scss";
 
 
-.hero.standard {
+.hero {
 	position: relative;
 	margin-bottom: em(50);
 
@@ -16,14 +16,14 @@
 
 	.hero-text.light {
 		h1,
-		h3 {
+		a.category-link {
 			text-shadow: rem(1) rem(2) rem(3) #000;
 			color: #fff;
 		}
 	}
 
 	h1,
-	h3 {
+	a.category-link {
 		margin: 0;
 	}
 
@@ -32,8 +32,13 @@
 		font-weight: $title-font-weight;
 	}
 
-	h3 {
+	a.category-link {
 		font-weight: $body-font-weight;
+		font-size: $h3-size;
+
+		&:hover {
+			text-decoration: underline;
+		}
 	}
 
 	img {
@@ -41,8 +46,71 @@
 	}
 }
 
+@include media($width-970) {
+	.hero {
+		.hero-text {
+			h1 {
+				font-size: rem(43);
+			}
+		}
+	}	
+}
+
+
+
 @include media($width-770) {
-	.hero.standard {
+	.hero {
 		margin-bottom: em(35);
+
+		.hero-text {
+			top: 60%;
+			h1 {
+				font-size: rem(34);
+			}
+			a.category-link {
+				font-size: $h4-size;
+			}
+		}
+	}	
+}
+
+@media #{$max-701} {
+	.hero {
+		.hero-text {
+			h1 {
+				font-size: rem(30);
+				margin-bottom: rem(6);
+			}
+		}
+	}	
+}
+
+@include media($width-610) {
+	.hero {
+		height: em(360);
+		box-shadow: $z-3;
+
+		.hero-text {
+			top: 55%;
+
+			h1 {
+				font-size: rem(28);
+				padding: 0 rem(22);
+				margin-bottom: rem(14);
+			}
+
+			a.category-link {
+				font-size: rem(18);
+			}
+		}
+
+		img {
+			visibility: hidden;
+			display: none;
+		}
 	}
 }
+
+
+
+

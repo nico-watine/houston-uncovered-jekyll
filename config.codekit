@@ -2086,6 +2086,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/sets\/blue-trees\/hero\/blue-trees@mobile.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 99487,
+		"inputAbbreviatedPath": "\/img\/sets\/blue-trees\/hero\/blue-trees@mobile.jpg",
+		"outputAbbreviatedPath": "\/img\/sets\/blue-trees\/hero\/blue-trees@mobile.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/sets\/blue-trees\/index\/gallery-link\/blue-trees.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
