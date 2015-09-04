@@ -815,5 +815,8 @@ main.gallery {
       visibility: hidden;
       display: none; } }
 @media screen and (max-width: 38.125em) {
+  #reclaimed-gas-station .hero {
+    background: #F7F6FC url("/img/sets/reclaimed-gas-station/hero/reclaimed-gas-station@mobile.jpg") center top; } }
+@media screen and (max-width: 38.125em) {
   #blue-trees .hero {
     background: #F7F6FC url("/img/sets/blue-trees/hero/blue-trees@mobile.jpg") center top; } }

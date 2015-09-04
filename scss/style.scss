@@ -25,17 +25,13 @@
 @import "pages/index/_index.scss";
 @import "pages/article/standard/_standard-article.scss";
 
+// _THE-CITY.SCSS IMPORTS ALL ARTICLE PARTIALS
+@import "pages/the-city/_the-city.scss";
+
 // ARTICLE-SPECIFIC STYLES
-@import "pages/the-city/washington-ave/blue-trees-on-waugh/_blue-trees-on-waugh.scss";
+
 
 
 // LASTLY IMPORT DEVELOPMENT STYLES, TO BE REMOVED UPON PRODUCTION
 // @import "settings/_development-styles.scss";
 
-// 18,975
-// 18,712
-// 18,747
-// 18,723
-// 18,679
-// 18,647
-// 18,623

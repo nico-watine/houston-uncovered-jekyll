@@ -65,7 +65,7 @@
 			</figure>
 			<figure class="gallery-link">
 				<div class="label">
-					<a href="#">
+					<a href="/the-city/midtown/reclaimed-gas-station">
 						<h3>Reclaimed Gas Station</h3>
 					</a>
 				</div>
