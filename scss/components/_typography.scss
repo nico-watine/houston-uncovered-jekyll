@@ -19,25 +19,17 @@ body {
 	color: $text-color;
 	font-weight: $body-font-weight;
 	font-family: $body-font-family;
-	line-height: 1.4;
+	line-height: 1.2;
 }
 
 p {
 	margin-bottom: $baseline;
 }
 
-
-a.light-link,
-a.white {
-	color: #f1f1f1;
-}
-
-a.inverse {
+a,
+a:visited {
+	color: $link-color;
 	text-decoration: none;
-
-	&:hover {
-		text-decoration: underline;
-	}
 }
 
 
@@ -109,23 +101,9 @@ h6 {
 	}
 }
 
-.page-title {
-	text-align: center;
-	font-size: rem(45);
-	padding-top: rem(25);
-}
-
 .title {
-	font-family: 'Track';
-	text-align: center;
+	font-family: $title-font-family;
+	font-weight: $title-font-weight;
 }
-
-.white-title {
-	font-family: 'Track';
-	text-align: center;
-	color: #f1f1f1;
-	text-shadow: rem(1) rem(2) rem(1) #000;
-}
-
 
 

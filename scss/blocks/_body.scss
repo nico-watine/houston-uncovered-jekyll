@@ -1,30 +1,6 @@
 @import "../settings/_settings.scss";
 
-
-
-
 body {
-	background: url('/img/bg/bg.jpg');
-	background-size: contain;
-	background-position: center top;
-	background-repeat: repeat-y;
-	background-color: $brick-gray;
-	background-attachment: fixed;
-}
-
-main {
-	margin-top: em(106);
-	padding-bottom: 180px;
-
-	@include media($large) {
-		margin-top: em(96);
-	}
-
-	@include media($small) {
-		margin-top: em(153);
-	}
-}
-
-main.no-margin {
-	margin-top: 0;
+	background: $brick-gray url('/img/assets/bg/bg.jpg') no-repeat fixed center center;
+	background-size: cover;
 }

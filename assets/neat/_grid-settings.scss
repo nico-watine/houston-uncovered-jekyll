@@ -1,9 +1,5 @@
 @import "neat-helpers";
 
-$large: new-breakpoint(max-width 62.500em 12); //1000px RED
-$medium: new-breakpoint(max-width 46.875em 10); //750px BLUE
-$small-plus: new-breakpoint(max-width 40em 8); //640px YELLOW
-$small: new-breakpoint(max-width 32.813em 8); //525px GREEN
 
 // PARTIALLY INSPIRED BY BOOTSTRAP | VALUES CHANGE BASED ON PROJECT
 

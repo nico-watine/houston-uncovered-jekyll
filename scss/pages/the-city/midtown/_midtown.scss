@@ -1,0 +1,10 @@
+@import "../../../settings/_settings.scss";
+@import "reclaimed-gas-station/_reclaimed-gas-station.scss";
+
+@include media($width-610) {
+	#midtown {
+		.hero {
+			background: $brick-gray url('/img/the-city/midtown/hero/midtown@mobile.jpg') center top;
+		}
+	}
+}

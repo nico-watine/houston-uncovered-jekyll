@@ -1,0 +1,10 @@
+@import "../../../settings/_settings.scss";
+@import "blue-trees-on-waugh/_blue-trees-on-waugh.scss";
+
+@include media($width-610) {
+	#washington-ave {
+		.hero {
+			background: $brick-gray url('/img/the-city/washington-ave/hero/washington-ave@mobile.jpg') center top;
+		}
+	}
+}

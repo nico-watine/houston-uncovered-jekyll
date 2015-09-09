@@ -1,0 +1,42 @@
+@import "../../../settings/_settings.scss";
+
+main.gallery {
+	text-align: center;
+
+	img {
+		box-shadow: $z-3;
+		margin-bottom: em(50);
+	}
+
+	img.full-width {
+		width: 100%;
+	}
+
+	img.half-width {
+		width: 48%;
+	}
+
+	img.half-width.left {
+		float: left;
+	}
+
+	img.half-width.right {
+		float: right;
+	}
+}
+
+@include media($width-770) {
+	main.gallery {
+		img {
+			margin-bottom: em(35);
+		}
+	}
+}
+
+@include media($width-610) {
+	main.gallery {
+		img.half-width {
+			width: 100%;
+		}
+	}
+}

@@ -1,0 +1,90 @@
+@import "../../settings/_settings.scss";
+
+@import "midtown/_midtown.scss";
+@import "washington-ave/_washington-ave.scss";
+
+
+figure.gallery-hero {
+	h2 {
+		font-family: $title-font-family;
+		font-weight: $title-font-weight;
+		font-size: rem(45);
+		margin: 0;
+
+		a {
+			text-shadow: rem(1) rem(2) rem(3) #000;
+			color: #fff;
+
+			&:hover {
+				text-decoration: underline;
+			}
+		}
+	}
+
+	h3 {
+		text-transform: uppercase;
+		color: #fff;
+		text-shadow: rem(1) rem(2) rem(3) #000;
+		font-weight: $body-font-weight;
+	}
+}
+
+@include media($width-970) {
+	figure.gallery-hero {
+		h2 {
+			font-size: rem(43);
+		}
+	}	
+}
+
+
+
+@include media($width-770) {
+	figure.gallery-hero {
+		margin-bottom: em(35);
+
+		.hero-text {
+			top: 60%;
+
+			h2 {
+				font-size: rem(34);
+			}
+		}
+	}	
+}
+
+@media #{$max-701} {
+	figure.gallery-hero {
+		h2 {
+			font-size: rem(30);
+			margin-bottom: rem(6);
+		}
+	}
+}
+
+
+@include media($width-610) {
+	figure.gallery-hero {
+		height: em(360);
+		box-shadow: $z-3;
+
+		.hero-text {
+			top: 55%;
+
+			h2 {
+				font-size: rem(28);
+				padding: 0 rem(22);
+				margin-bottom: rem(14);
+			}
+		}
+
+		img {
+			visibility: hidden;
+			display: none;
+		}
+	}
+}
+
+
+
+
