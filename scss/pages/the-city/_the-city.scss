@@ -2,3 +2,29 @@
 
 @import "midtown/_midtown.scss";
 @import "washington-ave/_washington-ave.scss";
+
+
+figure.gallery-hero {
+	h2 {
+		font-family: $title-font-family;
+		font-weight: $title-font-weight;
+		font-size: rem(45);
+		margin: 0;
+
+		a {
+			text-shadow: rem(1) rem(2) rem(3) #000;
+			color: #fff;
+
+			&:hover {
+				text-decoration: underline;
+			}
+		}
+	}
+
+	h3 {
+		text-transform: uppercase;
+		color: #fff;
+		text-shadow: rem(1) rem(2) rem(3) #000;
+		font-weight: $body-font-weight;
+	}
+}

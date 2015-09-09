@@ -756,31 +756,41 @@ main.gallery {
 @media screen and (max-width: 38.125em) {
   main.gallery img.half-width {
     width: 100%; } }
-.hero {
+.hero,
+.gallery-hero {
   position: relative;
   margin-bottom: 3.125em; }
-  .hero .hero-text {
+  .hero .hero-text,
+  .gallery-hero .hero-text {
     position: absolute;
     top: 50%;
     width: 100%;
     text-align: center;
     padding: 0 1.25em; }
   .hero .hero-text.light h1,
-  .hero .hero-text.light a.category-link {
+  .hero .hero-text.light a.category-link,
+  .gallery-hero .hero-text.light h1,
+  .gallery-hero .hero-text.light a.category-link {
     text-shadow: 0.0625rem 0.125rem 0.1875rem #000;
     color: #fff; }
   .hero h1,
-  .hero a.category-link {
+  .hero a.category-link,
+  .gallery-hero h1,
+  .gallery-hero a.category-link {
     margin: 0; }
-  .hero h1 {
+  .hero h1,
+  .gallery-hero h1 {
     font-family: "Track", sans-serif;
     font-weight: 400; }
-  .hero a.category-link {
+  .hero a.category-link,
+  .gallery-hero a.category-link {
     font-weight: 400;
     font-size: 1.75em; }
-    .hero a.category-link:hover {
+    .hero a.category-link:hover,
+    .gallery-hero a.category-link:hover {
       text-decoration: underline; }
-  .hero img {
+  .hero img,
+  .gallery-hero img {
     box-shadow: 0 0.6875rem 0.4375rem 0 rgba(0, 0, 0, 0.19), 0 0.8125rem 1.5625rem 0 rgba(0, 0, 0, 0.3); }
 
 @media screen and (max-width: 60.625em) {
@@ -820,3 +830,18 @@ main.gallery {
 @media screen and (max-width: 38.125em) {
   #blue-trees .hero {
     background: #F7F6FC url("/img/sets/blue-trees/hero/blue-trees@mobile.jpg") center top; } }
+figure.gallery-hero h2 {
+  font-family: "Track", sans-serif;
+  font-weight: 400;
+  font-size: 2.8125rem;
+  margin: 0; }
+  figure.gallery-hero h2 a {
+    text-shadow: 0.0625rem 0.125rem 0.1875rem #000;
+    color: #fff; }
+    figure.gallery-hero h2 a:hover {
+      text-decoration: underline; }
+figure.gallery-hero h3 {
+  text-transform: uppercase;
+  color: #fff;
+  text-shadow: 0.0625rem 0.125rem 0.1875rem #000;
+  font-weight: 400; }

@@ -2119,6 +2119,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/sets\/blue-trees\/the-city\/blue-trees.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 276136,
+		"inputAbbreviatedPath": "\/img\/sets\/blue-trees\/the-city\/blue-trees.jpg",
+		"outputAbbreviatedPath": "\/img\/sets\/blue-trees\/the-city\/blue-trees.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/sets\/blue-trees\/the-city\/blue-trees@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 810597,
+		"inputAbbreviatedPath": "\/img\/sets\/blue-trees\/the-city\/blue-trees@2x.jpg",
+		"outputAbbreviatedPath": "\/img\/sets\/blue-trees\/the-city\/blue-trees@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/sets\/ominous-downtown\/hero\/ominous-downtown.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2826,6 +2848,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 1
 		},
+	"\/the-city\/midtown\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/the-city\/midtown\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/the-city\/midtown\/reclaimed-gas-station.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -2840,6 +2871,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/the-city\/washington-ave\/blue-trees-on-waugh.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/the-city\/washington-ave\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/the-city\/washington-ave\/index.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0

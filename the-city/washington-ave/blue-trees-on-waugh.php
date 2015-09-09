@@ -36,9 +36,9 @@
 		</div>
 		<nav>
 			<ul id="main-nav">
-			<li><a href="/">home</a></li>
-				<li><a href="#">washington ave</a></li>
-				<li ><a href="#" id="last">midtown</a></li>
+				<li><a href="/">home</a></li>
+				<li><a href="/the-city/washington-ave/">washington ave</a></li>
+				<li><a href="/the-city/midtown/" id="last">midtown</a></li>
 			</ul>
 		</nav>
 	</div>
@@ -47,7 +47,7 @@
 <section class="hero">
 	<div class="hero-text light">
 		<h1>The Blue Trees on <span class="inline-block">Waugh Drive</span></h1>
-		<a href="#" class="category-link">Washington Ave</a>
+		<a href="/the-city/washington-ave/" class="category-link">Washington Ave</a>
 	</div>
 	<img src="/img/sets/blue-trees/hero/blue-trees.jpg" alt="Blue Trees on Waugh Hero Image">
 </section>
