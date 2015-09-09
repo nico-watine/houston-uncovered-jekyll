@@ -49,17 +49,17 @@
 	<div class="hero-text light">
 		<h1>Midtown</h1>
 	</div>
-	<img src="/img/the-city/washington-ave/hero/washington-ave@2x.jpg" alt="Washington Ave Header Map">
+	<img src="/img/the-city/midtown/hero/midtown.jpg" style="width: 100%;" alt="Midtown Header Map">
 </section>
 
 <main>
 
 	<figure class="gallery-hero" id="blue-trees">
 		<div class="hero-text">
-			<h2><a href="/the-city/washington-ave/blue-trees-on-waugh">The Blue Trees On Waugh Drive</a></h2>
+			<h2><a href="/the-city/midtown/reclaimed-gas-station">Reclaimed Gas Station</a></h2>
 			<h3>Gallery</h3>
 		</div>
-		<img src="/img/sets/blue-trees/the-city/blue-trees@2x.jpg" alt="The Blue Trees Gallery Link Image">
+		<img src="/img/sets/reclaimed-gas-station/the-city/reclaimed-gas-station@2x.jpg" alt="Reclaimed Gas Station Gallery Link Image">
 	</figure>
 
 </main>

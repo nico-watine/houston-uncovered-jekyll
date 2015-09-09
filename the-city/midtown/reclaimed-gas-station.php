@@ -47,7 +47,7 @@
 <section class="hero">
 	<div class="hero-text light">
 		<h1>Reclaimed Gas Station</h1>
-		<a href="#" class="category-link">Midtown</a>
+		<a href="/the-city/midtown/" class="category-link">Midtown</a>
 	</div>
 	<img src="/img/sets/reclaimed-gas-station/hero/reclaimed-gas-station.jpg" alt="Reclaimed Gas Station in Midtown">
 </section>
