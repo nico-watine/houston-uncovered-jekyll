@@ -2295,6 +2295,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/the-city\/midtown\/hero\/midtown@mobile.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 164541,
+		"inputAbbreviatedPath": "\/img\/the-city\/midtown\/hero\/midtown@mobile.jpg",
+		"outputAbbreviatedPath": "\/img\/the-city\/midtown\/hero\/midtown@mobile.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/the-city\/washington-ave\/hero\/washington-ave.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2313,6 +2324,17 @@
 		"initialSize": 294770,
 		"inputAbbreviatedPath": "\/img\/the-city\/washington-ave\/hero\/washington-ave@2x.jpg",
 		"outputAbbreviatedPath": "\/img\/the-city\/washington-ave\/hero\/washington-ave@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/the-city\/washington-ave\/hero\/washington-ave@mobile.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 77342,
+		"inputAbbreviatedPath": "\/img\/the-city\/washington-ave\/hero\/washington-ave@mobile.jpg",
+		"outputAbbreviatedPath": "\/img\/the-city\/washington-ave\/hero\/washington-ave@mobile.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

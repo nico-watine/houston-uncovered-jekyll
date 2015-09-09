@@ -54,7 +54,7 @@
 
 <main>
 
-	<figure class="gallery-hero" id="blue-trees">
+	<figure class="gallery-hero" id="reclaimed-gas-station">
 		<div class="hero-text">
 			<h2><a href="/the-city/midtown/reclaimed-gas-station">Reclaimed Gas Station</a></h2>
 			<h3>Gallery</h3>

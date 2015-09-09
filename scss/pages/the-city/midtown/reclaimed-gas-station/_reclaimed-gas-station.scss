@@ -2,10 +2,9 @@
 
 
 @include media($width-610) {
-	#reclaimed-gas-station {
-		.hero {
-			background: $brick-gray url('/img/sets/reclaimed-gas-station/hero/reclaimed-gas-station@mobile.jpg') center top;
-		}
+	figure.gallery-hero#reclaimed-gas-station,
+	#reclaimed-gas-station .hero{
+		background: $brick-gray url('/img/sets/reclaimed-gas-station/hero/reclaimed-gas-station@mobile.jpg') center top;
 	}
 }
 

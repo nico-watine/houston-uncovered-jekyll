@@ -2,10 +2,9 @@
 
 
 @include media($width-610) {
-	#blue-trees {
-		.hero {
-			background: $brick-gray url('/img/sets/blue-trees/hero/blue-trees@mobile.jpg') center top;
-		}
+	figure.gallery-hero#blue-trees,
+	#blue-trees .hero{
+		background: $brick-gray url('/img/sets/blue-trees/hero/blue-trees@mobile.jpg') center top;
 	}
 }
 
