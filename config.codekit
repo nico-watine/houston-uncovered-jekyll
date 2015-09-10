@@ -2174,6 +2174,39 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/sets\/abandoned-warehouse\/gallery\/abandoned-warehouse(1).jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 366178,
+		"inputAbbreviatedPath": "\/img\/sets\/abandoned-warehouse\/gallery\/abandoned-warehouse(1).jpg",
+		"outputAbbreviatedPath": "\/img\/sets\/abandoned-warehouse\/gallery\/abandoned-warehouse(1).jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/sets\/abandoned-warehouse\/gallery\/abandoned-warehouse(1)@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 830334,
+		"inputAbbreviatedPath": "\/img\/sets\/abandoned-warehouse\/gallery\/abandoned-warehouse(1)@2x.jpg",
+		"outputAbbreviatedPath": "\/img\/sets\/abandoned-warehouse\/gallery\/abandoned-warehouse(1)@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/sets\/abandoned-warehouse\/hero\/abandoned-warehouse.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 651769,
+		"inputAbbreviatedPath": "\/img\/sets\/abandoned-warehouse\/hero\/abandoned-warehouse.jpg",
+		"outputAbbreviatedPath": "\/img\/sets\/abandoned-warehouse\/hero\/abandoned-warehouse.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/sets\/blue-trees\/gallery\/blue-trees(1).jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -3100,6 +3133,24 @@
 		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
 		"useLibsass": 1
+		},
+	"\/the-city\/east-end\/abandoned-warehouse.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/the-city\/east-end\/abandoned-warehouse.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/the-city\/east-end\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/the-city\/east-end\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/the-city\/midtown\/index.php": {
 		"fileType": 8192,
