@@ -1965,6 +1965,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/logo\/dark\/logo@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8573,
+		"inputAbbreviatedPath": "\/img\/logo\/dark\/logo@2x.png",
+		"outputAbbreviatedPath": "\/img\/logo\/dark\/logo@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/logo\/light\/logo@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6888,
+		"inputAbbreviatedPath": "\/img\/logo\/light\/logo@2x.png",
+		"outputAbbreviatedPath": "\/img\/logo\/light\/logo@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/posts\/blue-trees-waugh\/index\/feature.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2203,6 +2225,17 @@
 		"initialSize": 651769,
 		"inputAbbreviatedPath": "\/img\/sets\/abandoned-warehouse\/hero\/abandoned-warehouse.jpg",
 		"outputAbbreviatedPath": "\/img\/sets\/abandoned-warehouse\/hero\/abandoned-warehouse.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/sets\/abandoned-warehouse\/the-city\/abandoned-warehouse@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 651769,
+		"inputAbbreviatedPath": "\/img\/sets\/abandoned-warehouse\/the-city\/abandoned-warehouse@2x.jpg",
+		"outputAbbreviatedPath": "\/img\/sets\/abandoned-warehouse\/the-city\/abandoned-warehouse@2x.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
