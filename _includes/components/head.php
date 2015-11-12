@@ -5,19 +5,16 @@
 <html class="no-js" lang="en">
 <head>
 	<meta charset="utf-8">
-	<link rel="preconnect" href="http://cdn.studioncreations.com">
-	<title>{{ page.title }} | Studio N Creations</title>
+	<link rel="preconnect" href="http://cdn.houstonuncovered.com/houstonuncovered.com">
+	<title>{{ page.title }} | Houston Uncovered</title>
 	<meta name="description" content="{{ page.description }}" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link type="text/plain" rel="author" href="/humans.txt">
 	
-	<link rel="stylesheet" href="{{ site.cdn_url }}<?php autoVer('/css/core.css'); ?>" />
-	<link rel="stylesheet" href="{{ site.cdn_url }}<?php autoVer('/css/pages.css'); ?>" />
-
-	<script src="{{ site.cdn_url }}/js/modernizr-min.js"></script>
+	<link rel="stylesheet" href="{{ site.cdn_url }}<?php autoVer('/css/style.css'); ?>" />
+	<script src="{{ site.cdn_url }}<?php autoVer('/js/picturefill-min.js'); ?>" async></script>
 
 	<!--[if lt IE 9]>
-		<link rel="stylesheet" href="/css/ie.css" />
-		<script src="/js/ie-min.js"></script>
+		<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
 	<![endif]-->
 </head>
