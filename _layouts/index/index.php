@@ -8,9 +8,9 @@
 		<div class="logo-wrapper">
 			<a href="/">
 			<div id="sticky-logo">
-				<img src="/img/assets/logo/light/logo@2x.png" alt="Houston Uncovered Logo">
+				<img src="{{ site.cdn_url }}/img/assets/logo/light/logo@2x.png" alt="Houston Uncovered Logo">
 			</div>
-			<img id="default-logo" src="/img/assets/logo/dark/logo@2x.png" alt="Houston Uncovered Logo">
+			<img id="default-logo" src="{{ site.cdn_url }}/img/assets/logo/dark/logo@2x.png" alt="Houston Uncovered Logo">
 			</a>
 		</div>
 		<nav>
@@ -27,7 +27,7 @@
 		<h1>Your Daily Dose of <span class="inline-block">the City</span></h1>
 		<a href="/the-city/washington-ave/blue-trees-on-waugh" id="call-to-action" class="button opaque-button">Today's Post</a>
 	</div>
-	<img src="/img/sets/ominous-downtown/hero/ominous-downtown.jpg" alt="Blue Trees on Waugh Hero Image">
+	<img src="{{ site.cdn_url }}/img/sets/ominous-downtown/hero/ominous-downtown.jpg" alt="Blue Trees on Waugh Hero Image">
 </section>
 
 <main>
@@ -39,7 +39,7 @@
 						<h3>Blue Trees</h3>
 					</a>
 				</div>
-				<img srcset="/img/sets/blue-trees/index/gallery-link/blue-trees.jpg 1x, /img/sets/blue-trees/index/gallery-link/blue-trees@2x.jpg 2x" alt="Blue Trees on Waugh Dr">	
+				<img srcset="{{ site.cdn_url }}/img/sets/blue-trees/index/gallery-link/blue-trees.jpg 1x, {{ site.cdn_url }}/img/sets/blue-trees/index/gallery-link/blue-trees@2x.jpg 2x" alt="Blue Trees on Waugh Dr">	
 			</figure>
 			<figure class="gallery-link">
 				<div class="label">
@@ -47,7 +47,7 @@
 						<h3>Reclaimed Gas Station</h3>
 					</a>
 				</div>
-				<img srcset="/img/sets/reclaimed-gas-station/index/gallery-link/reclaimed-gas-station.jpg 1x, /img/sets/reclaimed-gas-station/index/gallery-link/reclaimed-gas-station@2x.jpg 2x" alt="Blue Trees on Waugh Dr">	
+				<img srcset="{{ site.cdn_url }}/img/sets/reclaimed-gas-station/index/gallery-link/reclaimed-gas-station.jpg 1x, {{ site.cdn_url }}/img/sets/reclaimed-gas-station/index/gallery-link/reclaimed-gas-station@2x.jpg 2x" alt="Blue Trees on Waugh Dr">	
 			</figure>	
 		</div>
 	</div>
@@ -56,8 +56,7 @@
 
 
 {% include components/scripts/scripts.php %}
-
+{% include components/scripts/google-tracking.php %}
 
 </body>
 </html>
-

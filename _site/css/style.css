@@ -491,8 +491,10 @@ button {
   color: #fff;
   background-color: #777;
   -webkit-transition: background-color 200ms ease-out 0s;
+  -moz-transition: background-color 200ms ease-out 0s;
   transition: background-color 200ms ease-out 0s;
   -webkit-transition: color 200ms ease-out 0s;
+  -moz-transition: color 200ms ease-out 0s;
   transition: color 200ms ease-out 0s; }
   a.button:hover,
   button:hover {
@@ -509,6 +511,7 @@ a.opaque-button {
   border: 0.125rem solid #f1f1f1;
   box-shadow: 0 0.125rem 0.125rem 0 rgba(0, 0, 0, 0.2), 0 0.375rem 0.625rem 0 rgba(0, 0, 0, 0.3);
   -webkit-transition: background 70ms ease-out 0s;
+  -moz-transition: background 70ms ease-out 0s;
   transition: background 70ms ease-out 0s;
   text-shadow: 0.0625rem 0.0625rem 0.125rem #000; }
   a.opaque-button:hover {
@@ -555,10 +558,13 @@ header {
   z-index: 999;
   background-color: rgba(34, 34, 34, 0);
   -webkit-transition-property: height;
+  -moz-transition-property: height;
   transition-property: height;
   -webkit-transition-property: background-color;
+  -moz-transition-property: background-color;
   transition-property: background-color;
   -webkit-transition-duration: 0.3s;
+  -moz-transition-duration: 0.3s;
   transition-duration: 0.3s;
   padding: 1.25em; }
 
@@ -567,10 +573,13 @@ header {
   padding-left: 1.25rem; }
   .logo-wrapper img {
     -webkit-transition-property: opacity;
+    -moz-transition-property: opacity;
     transition-property: opacity;
     -webkit-transition-property: max-width;
+    -moz-transition-property: max-width;
     transition-property: max-width;
     -webkit-transition-duration: 0.3s;
+    -moz-transition-duration: 0.3s;
     transition-duration: 0.3s; }
 
 #sticky-logo {

@@ -15,6 +15,11 @@ encoding:         UTF-8
 
 # LOCAL-DEV BRANCH
 cdn_url:       
+start_comment: <!--
+end_comment: -->
 
 # CDN-PRODUCTION BRANCH
-# cdn_url:         http://cdn.houstonuncovered.com/houstonuncovered.com
+# cdn_url:         http://cdn.houstonuncovered.com/houstonuncovered
+# start_comment: 
+# end_comment: 
+

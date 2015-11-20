@@ -4,13 +4,12 @@
 
 @font-face {
   font-family: 'Track';
-  src: url('/fonts/track/track.eot'); /* IE9 Compat Modes */
-  src: url('/fonts/track/track.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('/fonts/track/track.woff') format('woff'), /* Modern Browsers */
-       url('/fonts/track/track.ttf')  format('truetype'), /* Safari, Android, iOS */
-       url('/fonts/track/track.svg#92ea731d3af6677905303c88689f5d55') format('svg'); /* Legacy iOS */
+  src: url('#{$url}/fonts/track/track.eot'); /* IE9 Compat Modes */
+  src: url('#{$url}/fonts/track/track.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('#{$url}/fonts/track/track.woff') format('woff'), /* Modern Browsers */
+       url('#{$url}/fonts/track/track.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('#{$url}/fonts/track/track.svg#92ea731d3af6677905303c88689f5d55') format('svg'); /* Legacy iOS */
        
   font-style:   normal;
   font-weight:  400;
 }
-

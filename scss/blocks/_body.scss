@@ -1,6 +1,6 @@
 @import "../settings/_settings.scss";
 
 body {
-	background: $brick-gray url('/img/assets/bg/bg.jpg') no-repeat fixed center center;
+	background: $brick-gray url('#{$url}/img/assets/bg/bg.jpg') no-repeat fixed center center;
 	background-size: cover;
 }

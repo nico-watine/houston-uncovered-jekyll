@@ -54,7 +54,7 @@ $max-701: "only screen and (max-width : 701px)";
 @include media($width-610) {
 	#index {
 		.hero {
-			background: $brick-gray url('/img/sets/ominous-downtown/hero/ominous-downtown@mobile.jpg') center top;
+			background: $brick-gray url('#{$url}/img/sets/ominous-downtown/hero/ominous-downtown@mobile.jpg') center top;
 
 			.hero-text {
 				top: 55%;

@@ -8,9 +8,9 @@
 		<div class="logo-wrapper">
 			<a href="/">
 			<div id="sticky-logo">
-				<img src="/img/assets/logo/light/logo@2x.png" alt="Houston Uncovered Logo">
+				<img src="{{ site.cdn_url }}/img/assets/logo/light/logo@2x.png" alt="Houston Uncovered Logo">
 			</div>
-			<img id="default-logo" src="/img/assets/logo/dark/logo@2x.png" alt="Houston Uncovered Logo">
+			<img id="default-logo" src="{{ site.cdn_url }}/img/assets/logo/dark/logo@2x.png" alt="Houston Uncovered Logo">
 			</a>
 		</div>
 		<nav>
@@ -27,7 +27,7 @@
 	<div class="hero-text light">
 		<h1>Midtown</h1>
 	</div>
-	<img src="/img/the-city/midtown/hero/midtown.jpg" style="width: 100%;" alt="Midtown Header Map">
+	<img src="{{ site.cdn_url }}/img/the-city/midtown/hero/midtown.jpg" style="width: 100%;" alt="Midtown Header Map">
 </section>
 
 <main>
@@ -37,13 +37,13 @@
 			<h2><a href="/the-city/midtown/reclaimed-gas-station">Reclaimed Gas Station</a></h2>
 			<h3>Gallery</h3>
 		</div>
-		<img src="/img/sets/reclaimed-gas-station/the-city/reclaimed-gas-station@2x.jpg" alt="Reclaimed Gas Station Gallery Link Image">
+		<img src="{{ site.cdn_url }}/img/sets/reclaimed-gas-station/the-city/reclaimed-gas-station@2x.jpg" alt="Reclaimed Gas Station Gallery Link Image">
 	</figure>
 
 </main>
 
 {% include components/scripts/scripts.php %}
-
+{% include components/scripts/google-tracking.php %}
 
 </body>
 </html>
