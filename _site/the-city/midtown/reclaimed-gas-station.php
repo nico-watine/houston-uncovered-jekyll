@@ -6,7 +6,7 @@
 <head>
 	<meta charset="utf-8">
 	<!--<link rel="preconnect" href="http://cdn.houstonuncovered.com/houstonuncovered">-->
-	<title>Your Daily Dose Of The City | Houston Uncovered</title>
+	<title>Reclaimed Gas Station | Houston Uncovered</title>
 	<meta name="description" content="Your daily dose of the city, serving up photos of all that is Houston" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link type="text/plain" rel="author" href="/humans.txt">
