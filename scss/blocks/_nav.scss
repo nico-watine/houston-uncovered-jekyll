@@ -1,6 +1,8 @@
 @import "../settings/_settings.scss";
 
-$max-701: "only screen and (max-width : 701px)";
+$width-1000: "only screen and (max-width : 62.500em)";
+$width-760: "only screen and (max-width : 47.500em)";
+$max-701: "only screen and (max-width : 43.813em)";
 
 ul#main-nav {
 	list-style-type: none;
@@ -31,17 +33,16 @@ ul#main-nav {
 
 		a#last {
 			border: 0;
+			padding-right: 0;
 		}
 	}
 }
 
-@include media($width-970) {
+@media #{$width-1000} {
 	nav {
 		padding-top: em(10);
 	}
-}
 
-@include media($width-770) {
 	ul#main-nav {
 		li {
 			a {
@@ -54,7 +55,8 @@ ul#main-nav {
 	}
 }
 
-@media #{$max-701} {
+
+@media #{$width-760} {
 	nav {
 		padding-top: 0;
 		ul#main-nav {

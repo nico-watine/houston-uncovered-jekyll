@@ -1,6 +1,9 @@
 @import "../settings/_settings.scss";
 
-$max-701: "only screen and (max-width : 701px)";
+$width-1000: "only screen and (max-width : 62.500em)";
+$width-810: "only screen and (max-width : 50.625em)";
+$width-760: "only screen and (max-width : 47.500em)";
+$max-701: "only screen and (max-width : 43.813em)";
 
 header {
 	width: 100%;
@@ -16,7 +19,6 @@ header {
  
 .logo-wrapper {
 	float: left;
-	padding-left: rem(20);
 
 	img {
 		@include transition-property(opacity);
@@ -58,7 +60,7 @@ header.smaller {
 	}
 }
 
-@include media($width-970) {
+@media #{$width-1000} {
 	img#default-logo {
 		max-width: em(280);
 	}
@@ -74,7 +76,7 @@ header.smaller {
 	}
 }
 
-@include media($width-770) {
+@media #{$width-810} {
 	.logo-wrapper {
 		padding-left: 0;
 	}
@@ -93,7 +95,8 @@ header.smaller {
 	}
 }
 
-@media #{$max-701} {
+// @media #{$max-701} {
+@media #{$width-760} {
 	img#default-logo {
 		max-width: em(220);
 	}

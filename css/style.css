@@ -563,8 +563,7 @@ header {
   padding: 1.25em; }
 
 .logo-wrapper {
-  float: left;
-  padding-left: 1.25rem; }
+  float: left; }
   .logo-wrapper img {
     -webkit-transition-property: opacity;
     transition-property: opacity;
@@ -595,7 +594,7 @@ header.smaller {
     opacity: 0;
     max-width: 16.875em; }
 
-@media screen and (max-width: 60.625em) {
+@media only screen and (max-width: 62.5em) {
   img#default-logo {
     max-width: 17.5em; }
 
@@ -605,7 +604,7 @@ header.smaller {
     header.smaller #sticky-logo img,
     header.smaller img#default-logo {
       max-width: 15em; } }
-@media screen and (max-width: 48.125em) {
+@media only screen and (max-width: 50.625em) {
   .logo-wrapper {
     padding-left: 0; }
 
@@ -617,7 +616,7 @@ header.smaller {
     header.smaller #sticky-logo img,
     header.smaller img#default-logo {
       max-width: 13.125em; } }
-@media only screen and (max-width: 701px) {
+@media only screen and (max-width: 47.5em) {
   img#default-logo {
     max-width: 13.75em; }
 
@@ -660,17 +659,18 @@ ul#main-nav {
     ul#main-nav li a.active {
       font-weight: 700; }
     ul#main-nav li a#last {
-      border: 0; }
+      border: 0;
+      padding-right: 0; }
 
-@media screen and (max-width: 60.625em) {
+@media only screen and (max-width: 62.5em) {
   nav {
-    padding-top: 0.625em; } }
-@media screen and (max-width: 48.125em) {
+    padding-top: 0.625em; }
+
   ul#main-nav li a {
     font-size: 1.125rem; }
   ul#main-nav li a#last {
     padding-right: 0; } }
-@media only screen and (max-width: 701px) {
+@media only screen and (max-width: 47.5em) {
   nav {
     padding-top: 0; }
     nav ul#main-nav li a {
