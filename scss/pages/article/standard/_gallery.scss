@@ -9,7 +9,7 @@ main.gallery {
 	}
 
 	img.full-width {
-		width: 100%;
+		@include span-columns(16 of 16);
 	}
 
 	img.half-width {

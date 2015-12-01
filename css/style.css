@@ -744,7 +744,12 @@ main.gallery {
     box-shadow: 0 0.6875rem 0.4375rem 0 rgba(0, 0, 0, 0.19), 0 0.8125rem 1.5625rem 0 rgba(0, 0, 0, 0.3);
     margin-bottom: 3.125em; }
   main.gallery img.full-width {
+    float: left;
+    display: block;
+    margin-right: 1.75788%;
     width: 100%; }
+    main.gallery img.full-width:last-child {
+      margin-right: 0; }
   main.gallery img.half-width {
     width: 48%; }
   main.gallery img.half-width.left {

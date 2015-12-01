@@ -21,7 +21,6 @@
 
 <body id="midtown">
 
-
 <header class="shrinking">
 	<div class="row">
 		<div class="logo-wrapper">

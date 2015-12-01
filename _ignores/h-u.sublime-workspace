@@ -136,10 +136,26 @@
 	"buffers":
 	[
 		{
-			"file": "/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/_layouts/the-city/midtown/index/index.php",
+			"file": "/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/_config.yml",
 			"settings":
 			{
-				"buffer_size": 1226,
+				"buffer_size": 498,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/_layouts/the-city/midtown/reclaimed-gas-station/1.php",
+			"settings":
+			{
+				"buffer_size": 2466,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/pages/article/standard/_gallery.scss",
+			"settings":
+			{
+				"buffer_size": 514,
 				"line_ending": "Unix"
 			}
 		}
@@ -247,42 +263,63 @@
 	[
 		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com",
 		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/_includes",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/_includes/blocks",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/_includes/components",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/_includes/components/scripts",
 		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/_layouts",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/_layouts/index",
 		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/_layouts/the-city",
 		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/_layouts/the-city/midtown",
 		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/_layouts/the-city/midtown/index",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/_layouts/the-city/midtown/reclaimed-gas-station",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/pages",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/pages/article",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/pages/article/standard",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/pages/the-city",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/pages/the-city/midtown",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/pages/the-city/midtown/reclaimed-gas-station",
 		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/the-city",
-		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/the-city/midtown"
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/the-city/midtown",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/the-city/washington-ave"
 	],
 	"file_history":
 	[
-		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/the-city/midtown/index.php",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/assets/neat/settings/_grid.scss",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/assets/neat/_grid-settings.scss",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/pages/the-city/midtown/reclaimed-gas-station/_reclaimed-gas-station.scss",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/the-city/midtown/reclaimed-gas-station.php",
 		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/index.php",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/_layouts/the-city/midtown/reclaimed-gas-station/1.php",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/_layouts/the-city/midtown/index/index.php",
 		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/_layouts/index/index.php",
 		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/_includes/components/head.php",
-		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/_includes/components/scripts/scripts.php",
 		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/_config.yml",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/ie.scss",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/style.scss",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/settings/_settings.scss",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/components/_fonts.scss",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/components/_typography.scss",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/pages/article/standard/_standard-article.scss",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/pages/index/_hero.scss",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/_includes/components/scripts/scripts.php",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/pages/the-city/midtown/_midtown.scss",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/pages/the-city/_the-city.scss",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/pages/the-city/washington-ave/_washington-ave.scss",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/pages/the-city/washington-ave/blue-trees-on-waugh/_blue-trees-on-waugh.scss",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/blocks/_body.scss",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/blocks/_header.scss",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/_includes/components/scripts/google-tracking.php",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/_includes/blocks/nav-overlay.html",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/_includes/blocks/footer.html",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/the-city/midtown/index.php",
 		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/assets/bower_components/magnific-popup/.gitignore",
 		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/the-city/east-end/abandoned-warehouse.php",
-		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/components/_fonts.scss",
 		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/the-city/east-end/index.php",
-		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/style.scss",
 		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/js/src/scripts.js",
-		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/assets/neat/_grid-settings.scss",
-		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/assets/neat/settings/_grid.scss",
 		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/the-city/washington-ave/index.php",
 		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/the-city/washington-ave/blue-trees-on-waugh.php",
-		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/the-city/midtown/reclaimed-gas-station.php",
-		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/pages/the-city/_the-city.scss",
-		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/pages/index/_hero.scss",
-		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/pages/article/standard/_standard-article.scss",
-		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/pages/the-city/midtown/reclaimed-gas-station/_reclaimed-gas-station.scss",
-		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/pages/the-city/washington-ave/blue-trees-on-waugh/_blue-trees-on-waugh.scss",
-		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/pages/the-city/washington-ave/_washington-ave.scss",
-		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/pages/the-city/midtown/_midtown.scss",
 		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/blocks/_main.scss",
-		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/components/_typography.scss",
-		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/settings/_settings.scss",
 		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/_ignores/google-tracking-id.html",
 		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/style.scss",
 		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/components/_utility-classes.scss",
@@ -375,15 +412,7 @@
 		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/jquery/src/var/strundefined.js",
 		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/modernizr/feature-detects/style-scoped.js",
 		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/modernizr/feature-detects/custom-protocol-handler.js",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/modernizr/feature-detects/css-objectfit.js",
-		"/Users/nico/SNC Projects/nicowatine.me/Site Folder/nicowatine.me/css/style.css",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/modernizr/test/basic.html",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/modernizr/feature-detects/battery-api.js",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/css/app.css",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/events-ie8.html",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/403.html",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/404.html",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/js/rem.min.js"
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/modernizr/feature-detects/css-objectfit.js"
 	],
 	"find":
 	{
@@ -402,6 +431,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"/fonts",
+			"base_cdn",
+			"/img",
 			"h2",
 			"blue-trees",
 			"/img",
@@ -526,10 +558,7 @@
 			"2px",
 			"3px",
 			"1px",
-			"2px",
-			"h2",
-			"padding",
-			"h1"
+			"2px"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -537,6 +566,9 @@
 		"regex": false,
 		"replace_history":
 		[
+			"cdn_url",
+			"#{$url}/img",
+			"{{ site.base_cdn }}/img",
 			"http://cdn.houstonuncovered.com/houstonuncovered.com/img",
 			"thedeckonfountainview",
 			"posts/video-bg/",
@@ -568,62 +600,61 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/_layouts/the-city/midtown/index/index.php",
+					"file": "/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/_config.yml",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1226,
+						"buffer_size": 498,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								299,
-								299
+								296,
+								296
 							]
 						],
 						"settings":
 						{
 							"BracketHighlighterBusy": false,
-							"_anf_new": "",
 							"bh_regions":
 							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
 								"bh_tag",
 								"bh_tag_center",
 								"bh_tag_open",
 								"bh_tag_close",
 								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
@@ -634,28 +665,205 @@
 								"bh_round_open",
 								"bh_round_close",
 								"bh_round_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
+							"syntax": "Packages/YAML/YAML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/_layouts/the-city/midtown/reclaimed-gas-station/1.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2466,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1362,
+								1362
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
 								"bh_double_quote",
 								"bh_double_quote_center",
 								"bh_double_quote_open",
 								"bh_double_quote_close",
 								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
 								"bh_regex_close",
-								"bh_regex_content"
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
 							],
 							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
-							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"syntax": "Packages/PHP/PHP.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 654.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/pages/article/standard/_gallery.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 514,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								203,
+								203
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -703,7 +911,7 @@
 	"project": "h-u.sublime-project",
 	"replace":
 	{
-		"height": 66.0
+		"height": 68.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -713,19 +921,71 @@
 		"selected_items":
 		[
 			[
-				"layin",
-				"_layouts/index/index.php"
+				"grid",
+				"assets/neat/settings/_grid.scss"
 			],
 			[
-				"heap",
-				"_includes/components/head.php"
+				"gridse",
+				"assets/neat/_grid-settings.scss"
 			],
 			[
 				"in",
 				"index.php"
 			],
 			[
+				"conf",
+				"_config.yml"
+			],
+			[
+				"rel",
+				"the-city/midtown/reclaimed-gas-station.php"
+			],
+			[
+				"recl",
+				"the-city/midtown/reclaimed-gas-station.php"
+			],
+			[
+				"typo",
+				"scss/components/_typography.scss"
+			],
+			[
+				"fonts",
+				"scss/components/_fonts.scss"
+			],
+			[
+				"set",
+				"scss/settings/_settings.scss"
+			],
+			[
+				"st",
+				"scss/style.scss"
+			],
+			[
+				"layin",
+				"_layouts/index/index.php"
+			],
+			[
 				"hea",
+				"_includes/components/head.php"
+			],
+			[
+				"inhe",
+				"scss/pages/index/_hero.scss"
+			],
+			[
+				"inclusc",
+				"_includes/components/scripts/scripts.php"
+			],
+			[
+				"iescs",
+				"scss/ie.scss"
+			],
+			[
+				"inclscr",
+				"_includes/components/scripts/scripts.php"
+			],
+			[
+				"heap",
 				"_includes/components/head.php"
 			],
 			[
@@ -773,10 +1033,6 @@
 				"scss/pages/the-city/washington-ave/_washington-ave.scss"
 			],
 			[
-				"inhe",
-				"scss/pages/index/_hero.scss"
-			],
-			[
 				"sta",
 				"scss/pages/article/standard/_standard-article.scss"
 			],
@@ -813,16 +1069,8 @@
 				"the-city/midtown/index.php"
 			],
 			[
-				"rel",
-				"scss/pages/the-city/midtown/reclaimed-gas-station/_reclaimed-gas-station.scss"
-			],
-			[
 				"art",
 				"scss/pages/article/standard/_standard-article.scss"
-			],
-			[
-				"typo",
-				"scss/components/_typography.scss"
 			],
 			[
 				"mid",
@@ -831,10 +1079,6 @@
 			[
 				"washph",
 				"the-city/washington-ave/index.php"
-			],
-			[
-				"recl",
-				"the-city/midtown/reclaimed-gas-station.php"
 			],
 			[
 				"blue",
@@ -863,10 +1107,6 @@
 			[
 				"thec",
 				"scss/pages/the-city/_the-city.scss"
-			],
-			[
-				"set",
-				"scss/settings/_settings.scss"
 			],
 			[
 				"bluep",
@@ -917,10 +1157,6 @@
 				"scss/pages/proposal-story/_proposal-opportunity-section.scss"
 			],
 			[
-				"st",
-				"scss/style.scss"
-			],
-			[
 				"prosc",
 				"scss/pages/proposal-story/_proposal-story.scss"
 			],
@@ -953,10 +1189,6 @@
 				"scss/settings/_development-styles.scss"
 			],
 			[
-				"gridse",
-				"assets/neat/_grid-settings.scss"
-			],
-			[
 				"gris",
 				"assets/neat/_grid-settings.scss"
 			],
@@ -975,10 +1207,6 @@
 			[
 				"type",
 				"_ignores/type-scales.txt"
-			],
-			[
-				"grid",
-				"assets/neat/settings/_grid.scss"
 			],
 			[
 				"404",
@@ -1203,26 +1431,6 @@
 			[
 				"evens",
 				"scss/_events.scss"
-			],
-			[
-				"menum",
-				"js/src/menu-m.js"
-			],
-			[
-				"appmj",
-				"js/src/app-m.js"
-			],
-			[
-				"menumj",
-				"js/src/menu-m.js"
-			],
-			[
-				"even",
-				"events.html"
-			],
-			[
-				"locas",
-				"scss/_location.scss"
 			]
 		],
 		"width": 0.0
@@ -1230,9 +1438,17 @@
 	"select_project":
 	{
 		"height": 500.0,
-		"last_filter": "we",
+		"last_filter": "e",
 		"selected_items":
 		[
+			[
+				"e",
+				"~/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/_ignores/engaged.sublime-project"
+			],
+			[
+				"bl",
+				"~/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_ignores/blog-snc-static.sublime-project"
+			],
 			[
 				"we",
 				"~/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/_ignores/engaged.sublime-project"
@@ -1244,10 +1460,6 @@
 			[
 				"n",
 				"~/Web Development/New Project/Site Folder/new-project.com/_ignores/newproject.sublime-project"
-			],
-			[
-				"e",
-				"~/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/_ignores/engaged.sublime-project"
 			],
 			[
 				"sn",
