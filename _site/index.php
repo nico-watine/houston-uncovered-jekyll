@@ -34,6 +34,7 @@
 		</div>
 		<nav>
 			<ul id="main-nav">
+				<li><a href="/">home</a></li>
 				<li><a href="/the-city/washington-ave/">washington ave</a></li>
 				<li><a href="/the-city/midtown/" id="last">midtown</a></li>
 			</ul>
