@@ -12,15 +12,15 @@
 </section>
 
 <main>
-
-	<figure class="gallery-hero" id="blue-trees">
-		<div class="hero-text">
-			<h2><a href="/the-city/washington-ave/blue-trees-on-waugh">The Blue Trees On Waugh Drive</a></h2>
-			<h3>Gallery</h3>
-		</div>
-		<img src="{{ site.cdn_url }}/img/sets/blue-trees/the-city/blue-trees@2x.jpg" alt="The Blue Trees Gallery Link Image">
-	</figure>
-
+	<div class="outer-container">
+		<figure class="gallery-hero" id="blue-trees">
+			<div class="hero-text">
+				<h2><a href="/the-city/washington-ave/blue-trees-on-waugh">The Blue Trees On Waugh Drive</a></h2>
+				<h3>Gallery</h3>
+			</div>
+			<img src="{{ site.cdn_url }}/img/sets/blue-trees/the-city/blue-trees@2x.jpg" alt="The Blue Trees Gallery Link Image">
+		</figure>
+	</div>
 </main>
 
 

@@ -52,15 +52,15 @@
 </section>
 
 <main>
-
-	<figure class="gallery-hero" id="reclaimed-gas-station">
-		<div class="hero-text">
-			<h2><a href="/the-city/midtown/reclaimed-gas-station">Reclaimed Gas Station</a></h2>
-			<h3>Gallery</h3>
-		</div>
-		<img src="/img/sets/reclaimed-gas-station/the-city/reclaimed-gas-station@2x.jpg" alt="Reclaimed Gas Station Gallery Link Image">
-	</figure>
-
+	<div class="outer-container">
+		<figure class="gallery-hero" id="reclaimed-gas-station">
+			<div class="hero-text">
+				<h2><a href="/the-city/midtown/reclaimed-gas-station">Reclaimed Gas Station</a></h2>
+				<h3>Gallery</h3>
+			</div>
+			<img src="/img/sets/reclaimed-gas-station/the-city/reclaimed-gas-station@2x.jpg" alt="Reclaimed Gas Station Gallery Link Image">
+		</figure>
+	</div>
 </main>
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>

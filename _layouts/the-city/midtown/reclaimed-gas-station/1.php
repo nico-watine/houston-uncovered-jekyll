@@ -13,9 +13,11 @@
 </section>
 
 <main class="gallery">
-	<img id="img-1" class="full-width" srcset="{{ site.cdn_url }}/img/sets/reclaimed-gas-station/gallery/reclaimed-gas-station(2).jpg 1x, {{ site.cdn_url }}/img/sets/reclaimed-gas-station/gallery/reclaimed-gas-station(2)@2x.jpg 2x" alt="Reclaimed Gas Station in Midtown">
-	<img id="img-2" class="full-width" srcset="{{ site.cdn_url }}/img/sets/reclaimed-gas-station/gallery/reclaimed-gas-station(3).jpg 1x, {{ site.cdn_url }}/img/sets/reclaimed-gas-station/gallery/reclaimed-gas-station(3)@2x.jpg 2x" alt="Reclaimed Gas Station in Midtown">
-	<img id="img-3" class="full-width" srcset="{{ site.cdn_url }}/img/sets/reclaimed-gas-station/gallery/reclaimed-gas-station(1).jpg 1x, {{ site.cdn_url }}/img/sets/reclaimed-gas-station/gallery/reclaimed-gas-station(1)@2x.jpg 2x" alt="Reclaimed Gas Station in Midtown">
+		<div class="outer-container">
+		<img id="img-1" class="full-width" srcset="{{ site.cdn_url }}/img/sets/reclaimed-gas-station/gallery/reclaimed-gas-station(2).jpg 1x, {{ site.cdn_url }}/img/sets/reclaimed-gas-station/gallery/reclaimed-gas-station(2)@2x.jpg 2x" alt="Reclaimed Gas Station in Midtown">
+		<img id="img-2" class="full-width" srcset="{{ site.cdn_url }}/img/sets/reclaimed-gas-station/gallery/reclaimed-gas-station(3).jpg 1x, {{ site.cdn_url }}/img/sets/reclaimed-gas-station/gallery/reclaimed-gas-station(3)@2x.jpg 2x" alt="Reclaimed Gas Station in Midtown">
+		<img id="img-3" class="full-width" srcset="{{ site.cdn_url }}/img/sets/reclaimed-gas-station/gallery/reclaimed-gas-station(1).jpg 1x, {{ site.cdn_url }}/img/sets/reclaimed-gas-station/gallery/reclaimed-gas-station(1)@2x.jpg 2x" alt="Reclaimed Gas Station in Midtown">
+	</div>
 </main>
 
 

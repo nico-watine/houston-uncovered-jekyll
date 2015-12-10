@@ -12,15 +12,15 @@
 </section>
 
 <main>
-
-	<figure class="gallery-hero" id="blue-trees">
-		<div class="hero-text">
-			<h2><a href="/the-city/east-end/abandoned-warehouse">Abandoned Warehouse</a></h2>
-			<h3>Gallery</h3>
-		</div>
-		<img src="{{ site.cdn_url }}/img/sets/abandoned-warehouse/the-city/abandoned-warehouse@2x.jpg" alt="The Blue Trees Gallery Link Image">
-	</figure>
-
+	<div class="outer-container">
+		<figure class="gallery-hero" id="blue-trees">
+			<div class="hero-text">
+				<h2><a href="/the-city/east-end/abandoned-warehouse">Abandoned Warehouse</a></h2>
+				<h3>Gallery</h3>
+			</div>
+			<img src="{{ site.cdn_url }}/img/sets/abandoned-warehouse/the-city/abandoned-warehouse@2x.jpg" alt="The Blue Trees Gallery Link Image">
+		</figure>
+	</div>
 </main>
 
 
