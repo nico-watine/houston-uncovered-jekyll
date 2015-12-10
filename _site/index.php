@@ -48,7 +48,7 @@
 <section class="hero">
 	<div class="hero-text light">
 		<h1>Your Daily Dose of <span class="inline-block">the City</span></h1>
-		<a href="/the-city/washington-ave/blue-trees-on-waugh" id="call-to-action" class="button opaque-button">Today's Post</a>
+		<a href="/the-city/east-end/abandoned-warehouse" id="call-to-action" class="button opaque-button">Today's Post</a>
 	</div>
 	<img src="/img/sets/ominous-downtown/hero/ominous-downtown.jpg" alt="Blue Trees on Waugh Hero Image">
 </section>

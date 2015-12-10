@@ -14,14 +14,14 @@
 
 <main class="gallery">
 	<div class="outer-container">
-		<img src="/img/sets/abandoned-warehouse/gallery/1.jpg" alt="Abandoned East End Warehouse">
-		<img src="/img/sets/abandoned-warehouse/gallery/2.jpg" alt="Abandoned East End Warehouse">
-		<img src="/img/sets/abandoned-warehouse/gallery/3.jpg" alt="Abandoned East End Warehouse">
-		<img src="/img/sets/abandoned-warehouse/gallery/4.jpg" alt="Abandoned East End Warehouse">
-		<img src="/img/sets/abandoned-warehouse/gallery/5.jpg" alt="Abandoned East End Warehouse">
-		<img src="/img/sets/abandoned-warehouse/gallery/6.jpg" alt="Abandoned East End Warehouse">
-		<img src="/img/sets/abandoned-warehouse/gallery/7.jpg" alt="Abandoned East End Warehouse">
-		<img src="/img/sets/abandoned-warehouse/gallery/8.jpg" alt="Abandoned East End Warehouse">
+		<img src="{{ site.cdn_url }}/img/sets/abandoned-warehouse/gallery/1.jpg" srcset="{{ site.cdn_url }}/img/sets/abandoned-warehouse/gallery/1@2x.jpg 2x" alt="Abandoned East End Warehouse">
+		<img src="{{ site.cdn_url }}/img/sets/abandoned-warehouse/gallery/2.jpg" srcset="{{ site.cdn_url }}/img/sets/abandoned-warehouse/gallery/2@2x.jpg 2x" alt="Abandoned East End Warehouse">
+		<img src="{{ site.cdn_url }}/img/sets/abandoned-warehouse/gallery/3.jpg" srcset="{{ site.cdn_url }}/img/sets/abandoned-warehouse/gallery/3@2x.jpg 2x" alt="Abandoned East End Warehouse">
+		<img src="{{ site.cdn_url }}/img/sets/abandoned-warehouse/gallery/4.jpg" srcset="{{ site.cdn_url }}/img/sets/abandoned-warehouse/gallery/4@2x.jpg 2x" alt="Abandoned East End Warehouse">
+		<img src="{{ site.cdn_url }}/img/sets/abandoned-warehouse/gallery/5.jpg" srcset="{{ site.cdn_url }}/img/sets/abandoned-warehouse/gallery/5@2x.jpg 2x" alt="Abandoned East End Warehouse">
+		<img src="{{ site.cdn_url }}/img/sets/abandoned-warehouse/gallery/6.jpg" srcset="{{ site.cdn_url }}/img/sets/abandoned-warehouse/gallery/6@2x.jpg 2x" alt="Abandoned East End Warehouse">
+		<img src="{{ site.cdn_url }}/img/sets/abandoned-warehouse/gallery/7.jpg" srcset="{{ site.cdn_url }}/img/sets/abandoned-warehouse/gallery/7@2x.jpg 2x" alt="Abandoned East End Warehouse">
+		<img src="{{ site.cdn_url }}/img/sets/abandoned-warehouse/gallery/8.jpg" srcset="{{ site.cdn_url }}/img/sets/abandoned-warehouse/gallery/8@2x.jpg 2x" alt="Abandoned East End Warehouse">
 	</div>
 </main>
 
