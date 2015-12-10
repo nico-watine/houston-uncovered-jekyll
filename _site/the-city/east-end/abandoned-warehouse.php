@@ -53,13 +53,15 @@
 </section>
 
 <main class="gallery">
-	<img id="img-1" class="full-width" srcset="/img/sets/abandoned-warehouse/gallery/abandoned-warehouse(1).jpg 1x, /img/sets/abandoned-warehouse/gallery/abandoned-warehouse(1)@2x.jpg 2x" alt="Abandoned East End Warehouse">
-	<img id="img-2" class="full-width" srcset="/img/sets/blue-trees/gallery/blue-trees(2).jpg 1x, /img/sets/blue-trees/gallery/blue-trees(2)@2x.jpg 2x" alt="Blue Trees Panorama Shot #2">
-	<div class="row">
-		<img id="img-3" class="half-width left" srcset="/img/sets/blue-trees/gallery/blue-trees(4).jpg 1x, /img/sets/blue-trees/gallery/blue-trees(4)@2x.jpg 2x" alt="View of Downtown Houston Through the Blue Trees">
-		<img id="img-4" class="half-width right" srcset="/img/sets/blue-trees/gallery/blue-trees(5).jpg 1x, /img/sets/blue-trees/gallery/blue-trees(5)@2x.jpg 2x" alt="View From Inside the Circle of Blue Trees">
+	<div class="outer-container">
+		<img id="img-1" class="full-width" srcset="/img/sets/abandoned-warehouse/gallery/abandoned-warehouse(1).jpg 1x, /img/sets/abandoned-warehouse/gallery/abandoned-warehouse(1)@2x.jpg 2x" alt="Abandoned East End Warehouse">
+		<img id="img-2" class="full-width" srcset="/img/sets/blue-trees/gallery/blue-trees(2).jpg 1x, /img/sets/blue-trees/gallery/blue-trees(2)@2x.jpg 2x" alt="Blue Trees Panorama Shot #2">
+		<div class="row">
+			<img id="img-3" class="half-width left" srcset="/img/sets/blue-trees/gallery/blue-trees(4).jpg 1x, /img/sets/blue-trees/gallery/blue-trees(4)@2x.jpg 2x" alt="View of Downtown Houston Through the Blue Trees">
+			<img id="img-4" class="half-width right" srcset="/img/sets/blue-trees/gallery/blue-trees(5).jpg 1x, /img/sets/blue-trees/gallery/blue-trees(5)@2x.jpg 2x" alt="View From Inside the Circle of Blue Trees">
+		</div>
+		<img id="img-5" class="full-width" srcset="/img/sets/blue-trees/gallery/blue-trees(3).jpg 1x, /img/sets/blue-trees/gallery/blue-trees(3)@2x.jpg 2x" alt="Blue Trees Panorama Shot #3">
 	</div>
-	<img id="img-5" class="full-width" srcset="/img/sets/blue-trees/gallery/blue-trees(3).jpg 1x, /img/sets/blue-trees/gallery/blue-trees(3)@2x.jpg 2x" alt="Blue Trees Panorama Shot #3">
 </main>
 
 

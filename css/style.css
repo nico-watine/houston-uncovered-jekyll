@@ -517,7 +517,7 @@ a.opaque-button {
     background: white; }
 
 .outer-container {
-  max-width: 87.5em;
+  max-width: 90em;
   margin-left: auto;
   margin-right: auto; }
   .outer-container::after {
