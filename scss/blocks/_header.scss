@@ -133,6 +133,11 @@ header.smaller {
 		}
 	}
 
+	header#white {
+		background-color: rgba(#222, .7);
+		box-shadow: 0px em(1) em(4) 0px #000;
+	}
+
 	header.smaller {
 		display: none;
 		visibility: hidden;

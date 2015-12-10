@@ -643,6 +643,10 @@ header.smaller {
     header #sticky-logo img {
       display: none; }
 
+  header#white {
+    background-color: rgba(34, 34, 34, 0.7);
+    box-shadow: 0px 0.0625em 0.25em 0px #000; }
+
   header.smaller {
     display: none;
     visibility: hidden; }

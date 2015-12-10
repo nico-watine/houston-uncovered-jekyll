@@ -1,4 +1,4 @@
-<header class="shrinking">
+<header id="white" class="shrinking">
 	<div class="row">
 		<div class="logo-wrapper">
 			<a href="/">
