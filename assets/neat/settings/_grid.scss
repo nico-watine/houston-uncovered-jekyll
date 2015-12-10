@@ -22,7 +22,8 @@ $grid-columns: 16 !default;
 ///
 /// @type Number (Unit)
 ///
-$max-width: em(1200) !default;
+// $max-width: em(1200) !default;
+$max-width: em(1400) !default;
 
 /// When set to true, it sets the box-sizing property of all elements to `border-box`. Set with a `!global` flag.
 ///

@@ -22,23 +22,25 @@
 <body id="east-end-abandoned-warehouse">
 
 <header id="white" class="shrinking">
-	<div class="row">
-		<div class="logo-wrapper">
-			<a href="/">
-			<div id="sticky-logo">
-				<img src="/img/assets/logo/light/logo@2x.png" alt="Houston Uncovered Logo">
+	<div class="outer-container">
+		<div class="row">
+			<div class="logo-wrapper">
+				<a href="/">
+				<div id="sticky-logo">
+					<img src="/img/assets/logo/light/logo@2x.png" alt="Houston Uncovered Logo">
+				</div>
+				<img id="default-logo" src="/img/assets/logo/light/logo@2x.png" alt="Houston Uncovered Logo">
+				</a>
 			</div>
-			<img id="default-logo" src="/img/assets/logo/light/logo@2x.png" alt="Houston Uncovered Logo">
-			</a>
-		</div>
-		<nav>
-			<ul id="main-nav">
+			<nav>
+				<ul id="main-nav">
 	<li><a href="/">Home</a></li>
 	<li><a href="/the-city/washington-ave/">Washington Ave</a></li>
 	<li><a href="/the-city/midtown/">Midtown</a></li>
 	<li><a href="/the-city/east-end/" id="last">East End</a></li>
 </ul>
-		</nav>
+			</nav>
+		</div>
 	</div>
 </header>
 
