@@ -14,13 +14,14 @@
 
 <main class="gallery">
 	<div class="outer-container">
-		<img id="img-1" class="full-width" srcset="{{ site.cdn_url }}/img/sets/abandoned-warehouse/gallery/abandoned-warehouse(1).jpg 1x, {{ site.cdn_url }}/img/sets/abandoned-warehouse/gallery/abandoned-warehouse(1)@2x.jpg 2x" alt="Abandoned East End Warehouse">
-		<img id="img-2" class="full-width" srcset="{{ site.cdn_url }}/img/sets/blue-trees/gallery/blue-trees(2).jpg 1x, {{ site.cdn_url }}/img/sets/blue-trees/gallery/blue-trees(2)@2x.jpg 2x" alt="Blue Trees Panorama Shot #2">
-		<div class="row">
-			<img id="img-3" class="half-width left" srcset="{{ site.cdn_url }}/img/sets/blue-trees/gallery/blue-trees(4).jpg 1x, {{ site.cdn_url }}/img/sets/blue-trees/gallery/blue-trees(4)@2x.jpg 2x" alt="View of Downtown Houston Through the Blue Trees">
-			<img id="img-4" class="half-width right" srcset="{{ site.cdn_url }}/img/sets/blue-trees/gallery/blue-trees(5).jpg 1x, {{ site.cdn_url }}/img/sets/blue-trees/gallery/blue-trees(5)@2x.jpg 2x" alt="View From Inside the Circle of Blue Trees">
-		</div>
-		<img id="img-5" class="full-width" srcset="{{ site.cdn_url }}/img/sets/blue-trees/gallery/blue-trees(3).jpg 1x, {{ site.cdn_url }}/img/sets/blue-trees/gallery/blue-trees(3)@2x.jpg 2x" alt="Blue Trees Panorama Shot #3">
+		<img src="/img/sets/abandoned-warehouse/gallery/1.jpg" alt="Abandoned East End Warehouse">
+		<img src="/img/sets/abandoned-warehouse/gallery/2.jpg" alt="Abandoned East End Warehouse">
+		<img src="/img/sets/abandoned-warehouse/gallery/3.jpg" alt="Abandoned East End Warehouse">
+		<img src="/img/sets/abandoned-warehouse/gallery/4.jpg" alt="Abandoned East End Warehouse">
+		<img src="/img/sets/abandoned-warehouse/gallery/5.jpg" alt="Abandoned East End Warehouse">
+		<img src="/img/sets/abandoned-warehouse/gallery/6.jpg" alt="Abandoned East End Warehouse">
+		<img src="/img/sets/abandoned-warehouse/gallery/7.jpg" alt="Abandoned East End Warehouse">
+		<img src="/img/sets/abandoned-warehouse/gallery/8.jpg" alt="Abandoned East End Warehouse">
 	</div>
 </main>
 
