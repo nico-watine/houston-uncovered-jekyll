@@ -2,7 +2,7 @@
 
 <body id="east-end-abandoned-warehouse">
 
-{% include blocks/shrinking-header-white.php %}
+{% include blocks/header/shrinking-header-white.php %}
 
 <section class="hero">
 	<div class="hero-text light">

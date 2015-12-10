@@ -44,7 +44,7 @@ img#default-logo {
 header.smaller {
 	padding: em(16) em(16);
 	background-color: rgba(#222, .7);
-	box-shadow: 0px em(1) em(4) 0px #000;
+	box-shadow: 0 em(1) em(4) 0 #000;
 	height: em(105);
 
 	#sticky-logo {
@@ -86,7 +86,6 @@ header.smaller {
 	}
 
 	header.smaller {
-		// height: em(85);
 		height: auto;
 
 		#sticky-logo img,
@@ -135,7 +134,7 @@ header.smaller {
 
 	header#white {
 		background-color: rgba(#222, .7);
-		box-shadow: 0px em(1) em(4) 0px #000;
+		box-shadow: 0 em(1) em(4) 0 #000;
 	}
 
 	header.smaller {

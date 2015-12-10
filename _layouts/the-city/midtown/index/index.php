@@ -2,7 +2,7 @@
 
 <body id="midtown">
 
-{% include blocks/shrinking-header.php %}
+{% include blocks/header/shrinking-header.php %}
 
 <section class="hero">
 	<div class="hero-text light">

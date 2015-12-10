@@ -20,20 +20,29 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_includes\/blocks\/shrinking-header-white.php": {
+	"\/_includes\/blocks\/header\/shrinking-header-white.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_includes\/blocks\/shrinking-header-white.php",
+		"inputAbbreviatedPath": "\/_includes\/blocks\/header\/shrinking-header-white.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_includes\/blocks\/shrinking-header.php": {
+	"\/_includes\/blocks\/header\/shrinking-header.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_includes\/blocks\/shrinking-header.php",
+		"inputAbbreviatedPath": "\/_includes\/blocks\/header\/shrinking-header.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_includes\/blocks\/nav\/nav-list.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_includes\/blocks\/nav\/nav-list.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0

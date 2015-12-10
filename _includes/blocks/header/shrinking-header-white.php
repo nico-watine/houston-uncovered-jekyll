@@ -9,12 +9,7 @@
 			</a>
 		</div>
 		<nav>
-			<ul id="main-nav">
-				<li><a href="/">home</a></li>
-				<li><a href="/the-city/washington-ave/">washington ave</a></li>
-				<li><a href="/the-city/midtown/">midtown</a></li>
-				<li><a href="/the-city/east-end/" id="last">east end</a></li>
-			</ul>
+			{% include blocks/nav/nav-list.php %}
 		</nav>
 	</div>
 </header>

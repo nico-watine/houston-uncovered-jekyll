@@ -33,11 +33,11 @@
 		</div>
 		<nav>
 			<ul id="main-nav">
-				<li><a href="/">home</a></li>
-				<li><a href="/the-city/washington-ave/">washington ave</a></li>
-				<li><a href="/the-city/midtown/">midtown</a></li>
-				<li><a href="/the-city/east-end/" id="last">east end</a></li>
-			</ul>
+	<li><a href="/">Home</a></li>
+	<li><a href="/the-city/washington-ave/">Washington Ave</a></li>
+	<li><a href="/the-city/midtown/">Midtown</a></li>
+	<li><a href="/the-city/east-end/" id="last">East End</a></li>
+</ul>
 		</nav>
 	</div>
 </header>
