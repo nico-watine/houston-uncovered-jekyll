@@ -5,7 +5,7 @@
 <html class="no-js" lang="en">
 <head>
 	<meta charset="utf-8">
-	{{ site.start_comment }}<link rel="preconnect" href="http://cdn.houstonuncovered.com/houstonuncovered">{{ site.end_comment }}
+	<!-- {{ site.start_comment }}<link rel="preconnect" href="http://cdn.houstonuncovered.com/houstonuncovered">{{ site.end_comment }} -->
 	<title>{{ page.title }} | Houston Uncovered</title>
 	<meta name="description" content="{{ page.description }}" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">

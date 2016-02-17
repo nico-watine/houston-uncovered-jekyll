@@ -1,0 +1,10 @@
+@import "../../../settings/_settings.scss";
+
+
+@include media($width-610) {
+	#east-end {
+		.hero {
+			background: $brick-gray url('#{$url}/img/the-city/east-end/hero/east-end@mobile.png') center top;
+		}
+	}
+}

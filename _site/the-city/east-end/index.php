@@ -5,7 +5,7 @@
 <html class="no-js" lang="en">
 <head>
 	<meta charset="utf-8">
-	<!--<link rel="preconnect" href="http://cdn.houstonuncovered.com/houstonuncovered">-->
+	<!-- <link rel="preconnect" href="http://cdn.houstonuncovered.com/houstonuncovered"> -->
 	<title>East-End Posts | Houston Uncovered</title>
 	<meta name="description" content="Your daily dose of the city, serving up photos of all that is Houston" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -19,7 +19,7 @@
 	<![endif]-->
 </head>
 
-<body id="washington-ave">
+<body id="east-end">
 
 <header class="shrinking">
 	<div class="outer-container">
@@ -48,7 +48,7 @@
 	<div class="hero-text light">
 		<h1>East End</h1>
 	</div>
-	<img src="/img/the-city/washington-ave/hero/washington-ave@2x.jpg" alt="Washington Ave Header Map">
+	<img src="/img/the-city/east-end/hero/east-end@2x.jpg" alt="Washington Ave Header Map">
 </section>
 
 <main>
@@ -67,14 +67,14 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="/js/vendor/jquery/1-11-3/jquery-min.js"><\/script>')</script>
 <script src="<?php autoVer('/js/scripts-min.js'); ?>"></script>
-<!--<script>
+<script>
 	(function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
 	function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
 	e=o.createElement(i);r=o.getElementsByTagName(i)[0];
 	e.src='https://www.google-analytics.com/analytics.js';
 	r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
 	ga('create','UA-55459011-5','auto');ga('send','pageview');
-</script>-->
+</script>
 
 
 </body>

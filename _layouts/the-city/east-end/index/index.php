@@ -1,6 +1,6 @@
 {% include components/head.php %}
 
-<body id="washington-ave">
+<body id="east-end">
 
 {% include blocks/header/shrinking-header.php %}
 
@@ -8,7 +8,7 @@
 	<div class="hero-text light">
 		<h1>East End</h1>
 	</div>
-	<img src="{{ site.cdn_url }}/img/the-city/washington-ave/hero/washington-ave@2x.jpg" alt="Washington Ave Header Map">
+	<img src="{{ site.cdn_url }}/img/the-city/east-end/hero/east-end@2x.jpg" alt="Washington Ave Header Map">
 </section>
 
 <main>

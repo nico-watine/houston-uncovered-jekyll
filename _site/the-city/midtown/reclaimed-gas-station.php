@@ -5,7 +5,7 @@
 <html class="no-js" lang="en">
 <head>
 	<meta charset="utf-8">
-	<!--<link rel="preconnect" href="http://cdn.houstonuncovered.com/houstonuncovered">-->
+	<!-- <link rel="preconnect" href="http://cdn.houstonuncovered.com/houstonuncovered"> -->
 	<title>Reclaimed Gas Station | Houston Uncovered</title>
 	<meta name="description" content="Your daily dose of the city, serving up photos of all that is Houston" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">

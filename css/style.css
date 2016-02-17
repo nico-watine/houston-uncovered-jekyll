@@ -889,6 +889,9 @@ main.gallery {
 @media screen and (max-width: 38.125em) {
   #washington-ave .hero {
     background: #F7F6FC url("/img/the-city/washington-ave/hero/washington-ave@mobile.jpg") center top; } }
+@media screen and (max-width: 38.125em) {
+  #east-end .hero {
+    background: #F7F6FC url("/img/the-city/east-end/hero/east-end@mobile.png") center top; } }
 figure.gallery-hero h2 {
   font-family: "Track", sans-serif;
   font-weight: 400;
